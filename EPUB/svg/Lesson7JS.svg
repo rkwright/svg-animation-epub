@@ -1,0 +1,1458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 74)  -->
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="593" height="739" viewBox="0 0 593 739" overflow="visible" 
+	 xml:space="preserve" onload="on_load(evt)" >
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'ComicSansMS-Bold';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIOeWgIgAAAAsAAADJWNtYXAA2QDfAAADVAAAAEQBAAQCAAEBARFDb21p\
+Y1NhbnNNUy1Cb2xkAAEBATT4GwH4FAT7efzpHAnWHAjRBR6gAEiCgSX/i4seoABIgoEl/4uLDAf3\
+Hw+MEPcoEZH5sxIAAQEBNENvbWljIFNhbnMgaXMgYSB0cmFkZW1hcmsgb2YgTWljcm9zb2Z0IENv\
+cnBvcmF0aW9uLgAAAAAnAEYASgBTAAUCAAEAHADeAXMCDgJ9SPcUFhwGZvmUHPmaB/0U9xQV+JQc\
+BWb8lAYO9yz6tBwE4hV8eo6ReB+nNSKZ+xAbYl2IhlYfVoZQg0qAjPsUi/sCii8IpPDfl84b9xD3\
+AIWA5x/hgLZeOxpkfWtwcR5xcGl+ZBtoV46QRh+QRleOaBtaN3xs+wsf/QcHZHxrbXEecWxofmQb\
+ZGyYpXMfc6R/rLIaHAR6B6WMsozAHozAi7KlGrKYrKalHqWlrJizG6SihoGeH9iY0pXMkgiRzMWO\
+vxvX63ts9wcf9yVk011XGmV+anBwHnBwan1lGw7B+PJdFfsz+xex1yYf+wTfU/cK9y0a9z239yLk\
+9wke9xXu9xnM9zsb9wjreGbYH/BavT4jGkJiSjlSHmZxQGX7BVn75fspGKtosnG4egh6uL+Cxhvk\
+152wyR+swribrBvQrmlIP1NN+wNbH2MuKHciG3D55RVNVnZiXx9fYmhNcDjWrNar1qvltNOwwK4I\
+pF5RmEMbDvfeHASyFWBmmahsH2yoe660GrSbrqqoHqiqsJm2G7awfW6qH6pummhiGmJ8aGxuHm5s\
+Zn1gG+D9cRVljE6ONx6NN4xOZRpkfmxxch5ycWp+YxtjapelcR9xpH6qshqxisiJ3x6I34rIsRrG\
+jtaS5B6S5I7WxhqymKulpB6kpayXsxuzrH9ypR+lcphrZBpQiECEMh6EMohAUBoOIPpA+WUVJYVd\
+WDQbN2G24h+G8PsqcyA+SvsWGYz8iwVlfmtxcx5ycWp+Yxtia5imdB92o4CqsBr5IwegjKqMtB6M\
+tIypoBqwlquipB6koauXtBvVt2U/mR/j9wr3F7f3JBv3Gc4y+0Vpi3WKgB8O+NIU+tcVAAAAAAAA\
+AQAAAAMAAAAMAAQAOAAAAAoACAACAAIARgBlAGkAcv//AAAARgBlAGkAcv///7v/nf+a/5IAAQAA\
+AAAAAAAAAAA=")}
+@font-face{font-family:'NewCenturySchlbk-Bold';src:url("data:;base64,\
+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\
+ABEAEgAg")}
+@font-face{font-family:'NewCenturySchlbk-Italic';src:url("data:;base64,\
+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")}
+@font-face{font-family:'NewCenturySchlbk-Roman';src:url("data:;base64,\
+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\
+SNUe9xb3z566m568jBmz+1sHDuuLuPgKuAH4I64D8Pe9Fe2PxKPPG+QG+6n8FAVo+BcHlfdGBWMG\
+ToN6Qycb+w0G96v4FAWu+/0Hgfs7BQ6P+E/3DPdCdwGkvfcbvQP36vl1FSpDaFRLGkutZL6sqaaq\
+snCiZoaGioqGHoqGh4qIG4eIkJKstsTIuh/7Y6gVKkNoVEsaS61kvqyppqqycKJmhoaKioYeioaH\
+iogbh4iQkqy2xMi6Hw6P+Gx39zn3DAH3Fb33G70DuvhPFezTrsLLGstpslhqbXBsZKZ0sJCQjIyQ\
+HoyQj4yOG4+OhoRqYFJOXB/3Y24V7NOuwssay2myWGptcGxkpnSwkJCMjJAejJCPjI4bj46GhGpg\
+Uk5cHw58mvlmmvulmvdnmgb3pZT8e4sHuArnC/jAFPgVFQAAAAABAAAAAwAAAAwABACIAAAAHgAQ\
+AAMADgAgACkAMgA1ADoAPwBGAEkATwBUAGoAcAB6IB3//wAAACAAKAAsADUAOAA/AEYASQBPAFIA\
+YQBsAHIgHP///+H/2v/Y/9b/1P/Q/8r/yP/D/8H/tf+0/7PgEgABAAAAAAAAAAAAAAAAAAAAAAAA\
+AAAAAAAAAAAAAAAAAAEAAAAKAB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgAAAABAAAA\
+AQAEAAIAAAABAAgAAQFSAAQAAAAWADYAQABKAFQAWgB4AIYAkACyAMAAygDcAOYA9AD+AQgBEgEg\
+ASoBNAFCAUwAAgAV/9sALv/bAAIAAf/bAC//2wACAAH/2wAv/9sAAQAB/9sABwAE/4MABv+DABb/\
+vwAa/8kAHv/2ACP/yQAl//YAAwAE/9sABv/bABUACgACAAT/2wAG/9sACAAE/4MABf+cAAb/gwAO\
+/9sAEgAKABb/yQAa/8kAI//JAAMAKf/2ACr/9gAs//YAAgAE/+4ABv/uAAQABP/uAAb/7gAd//kA\
+IP/5AAIABP/uAAb/7gADAAT/2wAG/9sALwBkAAIABP/nAAb/5wACAAT/7gAG/+4AAgAE/+4ABv/u\
+AAMABP+cAAX/2wAG/5wAAgAE/+cABv/nAAIABP+DAAb/gwADAAT/gwAG/4MAFv/uAAIABP+DAAb/\
+gwABAAH/2wABABYAAQAEAAYADgAQABIAFAAVABYAFwAYABoAGwAcACMAJAAlACYAKQAqACwALwAA\
+")}
+	]]>
+	</style>
+	<g transform="translate(0 -100)" >
+	<g transform="translate(107 300) scale(6.5 6.5) scale(1 -1)" >
+		<line fill="none" stroke="brown" x1="5" y1="-1" x2="100" y2="-1" stroke-width="0.2" opacity="0.25"/>
+	</g>
+
+	<g transform="translate(-150 0)" >
+	<symbol  id="Gear" viewBox="-21.037 -21.111 42.073 42.224">
+		<g>
+			<g>
+				
+					<linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="-418.9785" y1="-536.4517" x2="-359.6093" y2="-595.8209" gradientTransform="matrix(0.9963 -0.0857 0.0857 0.9963 439.2788 527.5898)">
+					<stop  offset="0" style="stop-color:#FFFF9E"/>
+					<stop  offset="1" style="stop-color:#823700"/>
+				</linearGradient>
+				<path fill="url(#XMLID_1_)" d="M21.037-4.063c-0.157-0.822-0.953-1.361-1.775-1.201l-2.797,0.186
+					c-0.424-0.031-0.809-0.278-0.998-0.627c-0.172-0.463-0.364-0.918-0.575-1.36c-0.112-0.377-0.02-0.82,0.25-1.14l2.082-1.879
+					c0.686-0.479,0.854-1.424,0.373-2.11c-0.479-0.687-1.422-0.854-2.11-0.375l-2.48,1.307c-0.396,0.144-0.85,0.076-1.166-0.165
+					c-0.336-0.345-0.691-0.673-1.056-0.986c-0.272-0.299-0.375-0.754-0.256-1.167l1.136-2.563c0.432-0.717,0.203-1.648-0.516-2.08
+					c-0.717-0.433-1.648-0.202-2.08,0.516l-1.734,2.202c-0.306,0.295-0.749,0.416-1.135,0.322c-0.45-0.18-0.91-0.338-1.378-0.476
+					c-0.363-0.165-0.636-0.536-0.695-0.956L4.126-19.42c0.103-0.831-0.487-1.587-1.318-1.691c-0.832-0.103-1.588,0.487-1.691,1.317
+					l-0.689,2.718c-0.162,0.398-0.522,0.692-0.921,0.759c-0.237,0.01-0.474,0.022-0.712,0.044c-0.239,0.021-0.475,0.048-0.712,0.079
+					c-0.403,0.002-0.81-0.227-1.036-0.592l-1.143-2.559c-0.244-0.801-1.092-1.252-1.893-1.01c-0.801,0.244-1.252,1.09-1.01,1.892
+					l0.479,2.763c0.014,0.425-0.193,0.836-0.523,1.061c-0.436,0.217-0.861,0.45-1.273,0.703c-0.366,0.16-0.824,0.116-1.177-0.122
+					l-2.085-1.874c-0.549-0.633-1.504-0.701-2.137-0.152s-0.701,1.506-0.154,2.139l1.56,2.33c0.188,0.388,0.163,0.855-0.055,1.195
+					c-0.306,0.37-0.597,0.752-0.869,1.148c-0.271,0.292-0.707,0.438-1.123,0.363l-2.667-0.863c-0.759-0.355-1.661-0.028-2.016,0.73
+					c-0.355,0.758-0.029,1.66,0.731,2.016l2.371,1.494c0.322,0.271,0.487,0.693,0.44,1.084c-0.13,0.469-0.241,0.946-0.33,1.43
+					c-0.126,0.379-0.467,0.691-0.878,0.793l-2.788,0.296c-0.838-0.016-1.529,0.649-1.544,1.487
+					c-0.016,0.836,0.649,1.527,1.487,1.544l2.774,0.4c0.415,0.119,0.747,0.451,0.852,0.843c0.07,0.48,0.16,0.955,0.272,1.42
+					c0.035,0.394-0.148,0.812-0.48,1.07l-2.428,1.404c-0.771,0.326-1.131,1.215-0.805,1.986c0.326,0.771,1.215,1.133,1.985,0.807
+					l2.698-0.763c0.424-0.059,0.857,0.106,1.116,0.414c0.254,0.402,0.528,0.792,0.818,1.171c0.205,0.348,0.213,0.817,0.009,1.199
+					l-1.646,2.27c-0.571,0.61-0.54,1.57,0.072,2.142c0.611,0.572,1.57,0.54,2.143-0.071l2.154-1.794
+					c0.37-0.229,0.841-0.253,1.207-0.066c0.392,0.261,0.796,0.507,1.212,0.734c0.326,0.236,0.52,0.658,0.489,1.085l-0.582,2.743
+					c-0.273,0.792,0.146,1.654,0.938,1.928c0.791,0.274,1.653-0.146,1.927-0.937l1.239-2.516c0.234-0.346,0.635-0.555,1.026-0.551
+					c0.478,0.08,0.962,0.138,1.454,0.178c0.393,0.082,0.743,0.389,0.891,0.793l0.584,2.74c0.072,0.836,0.806,1.453,1.641,1.381
+					c0.834-0.07,1.451-0.805,1.381-1.639l0.107-2.803c0.076-0.422,0.368-0.784,0.742-0.934c0.479-0.122,0.952-0.264,1.412-0.427
+					c0.384-0.067,0.809,0.072,1.095,0.37l1.65,2.266c0.404,0.732,1.328,1,2.061,0.595s0.998-1.327,0.594-2.06l-1.041-2.604
+					c-0.102-0.412,0.013-0.857,0.289-1.146c0.375-0.297,0.738-0.611,1.085-0.941c0.325-0.241,0.792-0.298,1.19-0.135l2.429,1.398
+					c0.668,0.505,1.62,0.372,2.124-0.296c0.504-0.667,0.373-1.618-0.297-2.123l-2.008-1.954c-0.263-0.339-0.336-0.798-0.197-1.176
+					c0.223-0.426,0.426-0.861,0.613-1.307c0.201-0.345,0.6-0.578,1.024-0.593l2.789,0.29c0.814,0.189,1.629-0.318,1.818-1.133
+					c0.19-0.816-0.318-1.63-1.135-1.82l-2.628-0.967c-0.372-0.198-0.621-0.574-0.658-0.966c0.033-0.482,0.038-0.971,0.025-1.462
+					c0.041-0.4,0.311-0.78,0.695-0.968l2.667-0.868C20.658-2.446,21.195-3.242,21.037-4.063z M-0.276-5.464
+					c2.995-0.258,5.632,1.961,5.89,4.956c0.258,2.995-1.961,5.632-4.956,5.889C-2.337,5.64-4.975,3.42-5.232,0.425
+					C-5.489-2.571-3.27-5.207-0.276-5.464z"/>
+				
+					<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-406.626" y1="-548.9673" x2="-373.3053" y2="-582.288" gradientTransform="matrix(0.9963 -0.0857 0.0857 0.9963 439.2788 527.5898)">
+					<stop  offset="0" style="stop-color:#FFFF9E"/>
+					<stop  offset="1" style="stop-color:#823700"/>
+				</linearGradient>
+				<path fill="url(#XMLID_2_)" d="M-5.232,0.425c0.257,2.995,2.895,5.215,5.89,4.956c2.995-0.257,5.214-2.894,4.956-5.889
+					c-0.258-2.995-2.895-5.214-5.89-4.956C-3.27-5.207-5.489-2.571-5.232,0.425z M-1.055-14.54C6.951-15.229,14-9.296,14.689-1.288
+					C15.377,6.72,9.443,13.769,1.438,14.458C-6.57,15.146-13.618,9.212-14.307,1.205C-14.995-6.802-9.062-13.852-1.055-14.54z"/>
+				
+					<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="-386.8428" y1="-568.7505" x2="-398.48" y2="-557.1132" gradientTransform="matrix(0.9963 -0.0857 0.0857 0.9963 439.2788 527.5898)">
+					<stop  offset="0" style="stop-color:#FFFF9E"/>
+					<stop  offset="1" style="stop-color:#823700"/>
+				</linearGradient>
+				<path fill="url(#XMLID_3_)" d="M-5.333,0.433c0.263,3.051,2.949,5.311,6,5.049c3.049-0.262,5.31-2.947,5.049-5.998
+					c-0.263-3.05-2.949-5.311-6-5.049C-3.333-5.303-5.594-2.617-5.333,0.433z M-0.113-3.575c1.952-0.169,3.672,1.277,3.839,3.23
+					c0.166,1.952-1.278,3.67-3.232,3.838c-1.952,0.168-3.67-1.279-3.838-3.231S-2.065-3.409-0.113-3.575z"/>
+				<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="20.2769" y1="-20.1279" x2="-19.4202" y2="19.5692">
+					<stop  offset="0" style="stop-color:#FFFF9E"/>
+					<stop  offset="1" style="stop-color:#823700"/>
+				</linearGradient>
+				<path fill="url(#XMLID_4_)" d="M-14.609,1.231c0.701,8.174,7.899,14.23,16.073,13.528c8.173-0.703,14.23-7.899,13.529-16.073
+					C14.289-9.488,7.094-15.545-1.082-14.843C-9.255-14.14-15.312-6.943-14.609,1.231z M-0.826-11.883
+					c6.538-0.562,12.295,4.284,12.857,10.824c0.563,6.538-4.283,12.295-10.822,12.857C-5.33,12.361-11.087,7.517-11.649,0.976
+					C-12.211-5.563-7.366-11.32-0.826-11.883z"/>
+			</g>
+		</g>
+	</symbol>
+	<g id="Layer_1">
+		
+		<linearGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" x1="282.5542" y1="343.0659" x2="314.042" y2="343.0659" gradientTransform="matrix(0.6911 0.7227 -0.7227 0.6911 233.5097 -79.7117)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path fill="url(#XMLID_5_)" stroke="#000000" d="M202.971,383.996c-6.377,5.725-16.58,5.425-22.787-0.668
+			c-6.209-6.095-6.072-15.677,0.306-21.4c6.377-5.725,16.58-5.426,22.789,0.669C209.486,368.69,209.349,378.271,202.971,383.996z"/>
+		
+			<linearGradient id="XMLID_6_" gradientUnits="userSpaceOnUse" x1="414.7168" y1="325.9004" x2="451.916" y2="325.9004" gradientTransform="matrix(0.5992 0.6635 -0.7421 0.6702 219.2055 -172.1631)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path fill="url(#XMLID_6_)" stroke="#000000" d="M202.43,383.426l-20.898-21.978l90.037-77.352l20.898,21.977L202.43,383.426z"/>
+		
+		<radialGradient id="XMLID_7_" cx="258.5962" cy="276.1963" r="7.8548" fx="258.5962" fy="276.1963" gradientTransform="matrix(1.5236 0 0 1.4524 -95.5181 -119.9067)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.0949" style="stop-color:#F9F9F9"/>
+			<stop  offset="0.2194" style="stop-color:#E9E9E9"/>
+			<stop  offset="0.3604" style="stop-color:#CECECE"/>
+			<stop  offset="0.5136" style="stop-color:#A8A8A8"/>
+			<stop  offset="0.6765" style="stop-color:#777777"/>
+			<stop  offset="0.845" style="stop-color:#3C3C3C"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<!-- path fill="url(#XMLID_7_)" d="M310.929,281.238c0,6.038-5.059,10.931-11.299,10.931h-2.301c-6.241,0-11.299-4.893-11.299-10.931c0-6.036,5.059-10.929,11.299-10.929h2.301C305.87,270.309,310.929,275.202,310.929,281.238z"/ -->
+		<g>
+			<g>
+				
+				<use xlink:href="#Gear"  width="42.073" height="42.224" x="-21.037" y="-21.111" transform="matrix(1.3258 0 0 -1.0899 243.0176 362.4346)"/>
+				<path fill="none" stroke="#D6A615" stroke-width="5" d="M273.238,362.366c0,13.767-13.529,24.927-30.217,24.927
+					c-16.689,0-30.218-11.16-30.218-24.927s13.528-24.927,30.218-24.927C259.709,337.439,273.238,348.6,273.238,362.366z"/>
+				<g>
+					<path d="M209.148,362.403c0,15.348,15.284,27.833,34.071,27.833c18.786,0,34.07-12.485,34.07-27.833
+						s-15.284-27.834-34.07-27.834C224.432,334.569,209.148,347.056,209.148,362.403z M210.148,362.403
+						c0-14.796,14.836-26.834,33.071-26.834c18.235,0,33.07,12.038,33.07,26.834c0,14.796-14.835,26.833-33.07,26.833
+						C224.984,389.236,210.148,377.199,210.148,362.403z"/>
+				</g>
+			</g>
+			
+				<radialGradient id="XMLID_8_" cx="98.8716" cy="479.6504" r="7.8555" fx="98.8716" fy="479.6504" gradientTransform="matrix(0.6338 0 0 0.5963 180.4119 76.5175)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.155" style="stop-color:#C3C3C3"/>
+				<stop  offset="0.3235" style="stop-color:#888888"/>
+				<stop  offset="0.4864" style="stop-color:#575757"/>
+				<stop  offset="0.6396" style="stop-color:#313131"/>
+				<stop  offset="0.7806" style="stop-color:#161616"/>
+				<stop  offset="0.9051" style="stop-color:#060606"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			<path fill="url(#XMLID_8_)" d="M248.256,362.533c0,2.479-2.104,4.488-4.7,4.488h-0.959c-2.595,0-4.699-2.009-4.699-4.488
+				c0-2.479,2.104-4.487,4.699-4.487h0.959C246.152,358.046,248.256,360.055,248.256,362.533z"/>
+		</g>
+		<g>
+			<g>
+			</g>
+		</g>
+
+		<text transform="matrix(1 0 0 1 315.8916 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">I</tspan></text>
+		<text transform="matrix(1 0 0 1 320.6914 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 328.1313 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 331.2515 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 336.0513 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 343.2515 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e p</tspan></text>
+		<text transform="matrix(1 0 0 1 359.3384 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 364.8584 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ev</tspan></text>
+		<text transform="matrix(1 0 0 1 377.1055 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">iou</tspan></text>
+		<text transform="matrix(1 0 0 1 394.3398 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">s</tspan></text>
+		<text transform="matrix(1 0 0 1 399.8594 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 402.9795 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">lesson</tspan></text>
+		<text transform="matrix(1 0 0 1 437.3467 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">,</tspan></text>
+		<text transform="matrix(1 0 0 1 440.707 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 443.8271 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">we sa</tspan></text>
+		<text transform="matrix(1 0 0 1 474.5811 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">w h</tspan></text>
+		<text transform="matrix(1 0 0 1 494.4834 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 500.4834 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">w on</tspan></text>
+		<text transform="matrix(1 0 0 1 526.3936 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e can</tspan></text>
+		<text transform="matrix(1 0 0 1 554.9756 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> cal</tspan></text>
+		<text transform="matrix(1 0 0 1 573.9492 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">c</tspan></text>
+		<text transform="matrix(1 0 0 1 579.4697 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">u</tspan></text>
+		<text transform="matrix(1 0 0 1 586.6689 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">l</tspan></text>
+		<text transform="matrix(1 0 0 1 590.5088 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">at</tspan></text>
+		<text transform="matrix(1 0 0 1 601.748 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e t</tspan></text>
+		<text transform="matrix(1 0 0 1 615.6748 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 623.1152 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan></text>
+		<text transform="matrix(1 0 0 1 632.2422 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">vert</tspan></text>
+		<text transform="matrix(1 0 0 1 654.8359 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 658.4355 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">c</tspan></text>
+		<text transform="matrix(1 0 0 1 663.7158 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">al p</tspan></text>
+		<text transform="matrix(1 0 0 1 684.2617 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 690.2617 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">sit</tspan></text>
+		<text transform="matrix(1 0 0 1 704.4121 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 708.0117 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 721.459 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 724.5791 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">of</tspan></text>
+		<text transform="matrix(1 0 0 1 734.666 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 744.5059 119.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">an</tspan></text>
+		<text transform="matrix(1 0 0 1 329.7783 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> ob</tspan></text>
+		<text transform="matrix(1 0 0 1 345.6328 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ject</tspan></text>
+		<text transform="matrix(1 0 0 1 365.356 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 368.4761 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">as a</tspan></text>
+		<text transform="matrix(1 0 0 1 390.5732 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> f</tspan></text>
+		<text transform="matrix(1 0 0 1 397.7725 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">u</tspan></text>
+		<text transform="matrix(1 0 0 1 405.2139 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 412.4131 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">c</tspan></text>
+		<text transform="matrix(1 0 0 1 417.9326 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 422.4932 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 426.333 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 439.5479 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> of</tspan></text>
+		<text transform="matrix(1 0 0 1 452.7627 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> it</tspan></text>
+		<text transform="matrix(1 0 0 1 464.4775 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">s i</tspan></text>
+		<text transform="matrix(1 0 0 1 477.0068 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 484.4482 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">it</tspan></text>
+		<text transform="matrix(1 0 0 1 492.8018 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ial</tspan></text>
+		<text transform="matrix(1 0 0 1 506.8838 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> vel</tspan></text>
+		<text transform="matrix(1 0 0 1 526.3164 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 532.3164 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">cit</tspan></text>
+		<text transform="matrix(1 0 0 1 546.2529 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y</tspan></text>
+		<text transform="matrix(1 0 0 1 552.7334 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 555.8535 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">an</tspan></text>
+		<text transform="matrix(1 0 0 1 569.7402 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">d</tspan></text>
+		<text transform="matrix(1 0 0 1 576.7002 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 579.8193 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 584.6201 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 591.8203 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e accelerat</tspan></text>
+		<text transform="matrix(1 0 0 1 650.9785 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 654.8184 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 668.0332 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> of</tspan></text>
+		<text transform="matrix(1 0 0 1 681.2471 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> gra</tspan></text>
+		<text transform="matrix(1 0 0 1 702.8887 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">v</tspan></text>
+		<text transform="matrix(1 0 0 1 709.3682 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">it</tspan></text>
+		<text transform="matrix(1 0 0 1 717.7227 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y</tspan></text>
+		<text transform="matrix(1 0 0 1 722.7627 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">.</tspan></text>
+		<text transform="matrix(1 0 0 1 726.123 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 729.2432 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> I</tspan></text>
+		<text transform="matrix(1 0 0 1 737.4033 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 744.6035 135.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 320.4517 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 327.8916 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 331.4917 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 337.252 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> l</tspan></text>
+		<text transform="matrix(1 0 0 1 344.2119 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 350.2119 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 355.7319 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 361.4917 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">on</tspan></text>
+		<text transform="matrix(1 0 0 1 374.7329 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">, we w</tspan></text>
+		<text transform="matrix(1 0 0 1 409.3672 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ill ex</tspan></text>
+		<text transform="matrix(1 0 0 1 436.4707 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 441.2705 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 447.2705 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 454.4707 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">d</tspan></text>
+		<text transform="matrix(1 0 0 1 461.4307 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 469.3506 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 476.79 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">at</tspan></text>
+		<text transform="matrix(1 0 0 1 488.0635 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> c</tspan></text>
+		<text transform="matrix(1 0 0 1 496.7041 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 502.7041 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">nc</tspan></text>
+		<text transform="matrix(1 0 0 1 515.3564 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ept</tspan></text>
+		<text transform="matrix(1 0 0 1 532.8857 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 540.8066 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 546.8066 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> allow</tspan></text>
+		<text transform="matrix(1 0 0 1 579.6816 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> us</tspan></text>
+		<text transform="matrix(1 0 0 1 595.9346 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 603.8545 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 609.8545 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> c</tspan></text>
+		<text transform="matrix(1 0 0 1 618.4941 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 625.2148 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">lu</tspan></text>
+		<text transform="matrix(1 0 0 1 636.2354 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">lat</tspan></text>
+		<text transform="matrix(1 0 0 1 651.3291 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 657.3291 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 665.4893 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 672.6895 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e hor</tspan></text>
+		<text transform="matrix(1 0 0 1 700.7842 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 704.624 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">z</tspan></text>
+		<text transform="matrix(1 0 0 1 710.3838 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 716.3838 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 723.584 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 728.3838 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 734.8643 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">l</tspan></text>
+		<text transform="matrix(1 0 0 1 738.7041 151.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">p</tspan></text>
+		<text transform="matrix(1 0 0 1 322.6118 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 328.6118 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">s</tspan></text>
+		<text transform="matrix(1 0 0 1 334.3716 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">i</tspan></text>
+		<text transform="matrix(1 0 0 1 337.9717 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 342.772 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">i</tspan></text>
+		<text transform="matrix(1 0 0 1 346.6118 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 352.3721 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">n</tspan></text>
+		<text transform="matrix(1 0 0 1 359.812 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> of </tspan></text>
+		<text transform="matrix(1 0 0 1 376.3389 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 381.1387 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 388.3389 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e objec</tspan></text>
+		<text transform="matrix(1 0 0 1 425.3291 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 429.8896 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> as well.</tspan></text>
+		<text transform="matrix(1 0 0 1 475.0049 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">  T</tspan></text>
+		<text transform="matrix(1 0 0 1 489.165 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 495.165 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> d</tspan></text>
+		<text transform="matrix(1 0 0 1 505.2451 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 511.2451 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">m</tspan></text>
+		<text transform="matrix(1 0 0 1 522.0449 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 528.0449 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">n</tspan></text>
+		<text transform="matrix(1 0 0 1 535.2451 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">s</tspan></text>
+		<text transform="matrix(1 0 0 1 540.7656 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 545.5654 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">r</tspan></text>
+		<text transform="matrix(1 0 0 1 550.8457 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">at</tspan></text>
+		<text transform="matrix(1 0 0 1 562.1025 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e t</tspan></text>
+		<text transform="matrix(1 0 0 1 576.2881 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 583.4883 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">is we wi</tspan></text>
+		<text transform="matrix(1 0 0 1 627.9424 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">ll u</tspan></text>
+		<text transform="matrix(1 0 0 1 646.1133 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">s</tspan></text>
+		<text transform="matrix(1 0 0 1 651.6338 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e a c</tspan></text>
+		<text transform="matrix(1 0 0 1 676.3555 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 682.3564 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">m</tspan></text>
+		<text transform="matrix(1 0 0 1 693.1563 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">m</tspan></text>
+		<text transform="matrix(1 0 0 1 703.7158 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">on</tspan></text>
+		<text transform="matrix(1 0 0 1 716.9414 167.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ap</tspan></text>
+		<text transform="matrix(1 0 0 1 329.333 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">pli</tspan></text>
+		<text transform="matrix(1 0 0 1 343.6997 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">c</tspan></text>
+		<text transform="matrix(1 0 0 1 349.2197 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">a</tspan></text>
+		<text transform="matrix(1 0 0 1 355.6997 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">t</tspan></text>
+		<text transform="matrix(1 0 0 1 360.4995 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ion</tspan></text>
+		<text transform="matrix(1 0 0 1 377.5781 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> of t</tspan></text>
+		<text transform="matrix(1 0 0 1 398.9521 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">h</tspan></text>
+		<text transform="matrix(1 0 0 1 406.1533 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">is</tspan></text>
+		<text transform="matrix(1 0 0 1 415.502 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> pr</tspan></text>
+		<text transform="matrix(1 0 0 1 431.0791 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">in</tspan></text>
+		<text transform="matrix(1 0 0 1 442.1084 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">c</tspan></text>
+		<text transform="matrix(1 0 0 1 447.6289 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">i</tspan></text>
+		<text transform="matrix(1 0 0 1 451.2295 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ple: b</tspan></text>
+		<text transform="matrix(1 0 0 1 481.2705 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">a</tspan></text>
+		<text transform="matrix(1 0 0 1 487.9893 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">lli</tspan></text>
+		<text transform="matrix(1 0 0 1 499.249 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">s</tspan></text>
+		<text transform="matrix(1 0 0 1 504.7686 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">t</tspan></text>
+		<text transform="matrix(1 0 0 1 509.5693 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ic</tspan></text>
+		<text transform="matrix(1 0 0 1 518.6777 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">s</tspan></text>
+		<text transform="matrix(1 0 0 1 523.958 183.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">.</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">F</tspan></text>
+		<text transform="matrix(1 0 0 1 323.0918 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 329.0918 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 334.6113 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> ou</tspan></text>
+		<text transform="matrix(1 0 0 1 350.9336 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r exam</tspan></text>
+		<text transform="matrix(1 0 0 1 389.3076 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">p</tspan></text>
+		<text transform="matrix(1 0 0 1 396.0273 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">l</tspan></text>
+		<text transform="matrix(1 0 0 1 399.8672 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e we wil</tspan></text>
+		<text transform="matrix(1 0 0 1 444.1709 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">l</tspan></text>
+		<text transform="matrix(1 0 0 1 448.0107 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> u</tspan></text>
+		<text transform="matrix(1 0 0 1 458.5713 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">s</tspan></text>
+		<text transform="matrix(1 0 0 1 464.0908 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e t</tspan></text>
+		<text transform="matrix(1 0 0 1 477.7725 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 485.2139 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e can</tspan></text>
+		<text transform="matrix(1 0 0 1 513.7803 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 520.9805 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">on</tspan></text>
+		<text transform="matrix(1 0 0 1 534.4229 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> sh</tspan></text>
+		<text transform="matrix(1 0 0 1 550.3008 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">own</tspan></text>
+		<text transform="matrix(1 0 0 1 573.082 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> on</tspan></text>
+		<text transform="matrix(1 0 0 1 589.6436 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 597.3242 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 604.7637 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e l</tspan></text>
+		<text transform="matrix(1 0 0 1 617.4863 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 623.4863 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">f</tspan></text>
+		<text transform="matrix(1 0 0 1 627.5664 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 632.3662 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">.</tspan></text>
+		<text transform="matrix(1 0 0 1 635.4863 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 638.8457 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> Ou</tspan></text>
+		<text transform="matrix(1 0 0 1 658.5039 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r c</tspan></text>
+		<text transform="matrix(1 0 0 1 672.4746 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">a</tspan></text>
+		<text transform="matrix(1 0 0 1 678.9541 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 686.3945 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 693.5947 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">on</tspan></text>
+		<text transform="matrix(1 0 0 1 707.0371 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> f</tspan></text>
+		<text transform="matrix(1 0 0 1 714.2363 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 717.8369 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 723.3564 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 729.3564 211.8638)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">s a </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">can</tspan></text>
+		<text transform="matrix(1 0 0 1 335.1255 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 342.5654 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 355.7822 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> ball</tspan></text>
+		<text transform="matrix(1 0 0 1 379.917 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">.</tspan></text>
+		<text transform="matrix(1 0 0 1 383.2764 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">  T</tspan></text>
+		<text transform="matrix(1 0 0 1 397.917 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 405.3564 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">is can</tspan></text>
+		<text transform="matrix(1 0 0 1 437.3203 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 444.7607 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 457.9775 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> bal</tspan></text>
+		<text transform="matrix(1 0 0 1 478.3154 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">l lea</tspan></text>
+		<text transform="matrix(1 0 0 1 501.7656 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">v</tspan></text>
+		<text transform="matrix(1 0 0 1 508.2451 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">es t</tspan></text>
+		<text transform="matrix(1 0 0 1 527.7549 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 535.1953 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e ba</tspan></text>
+		<text transform="matrix(1 0 0 1 557.7412 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">rr</tspan></text>
+		<text transform="matrix(1 0 0 1 568.6064 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">el</tspan></text>
+		<text transform="matrix(1 0 0 1 578.2227 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> of</tspan></text>
+		<text transform="matrix(1 0 0 1 591.6797 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 599.5996 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 607.04 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e can</tspan></text>
+		<text transform="matrix(1 0 0 1 635.6504 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 643.0908 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 656.3076 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> at</tspan></text>
+		<text transform="matrix(1 0 0 1 670.916 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> som</tspan></text>
+		<text transform="matrix(1 0 0 1 696.666 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 702.666 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> i</tspan></text>
+		<text transform="matrix(1 0 0 1 709.626 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 717.0664 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 721.626 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 725.4658 225.7837)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">al </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">vel</tspan></text>
+		<text transform="matrix(1 0 0 1 331.9717 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 337.9712 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">c</tspan></text>
+		<text transform="matrix(1 0 0 1 343.4912 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 347.0913 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 351.8911 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y</tspan></text>
+		<text transform="matrix(1 0 0 1 358.3711 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 361.4917 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993">V</tspan></text>
+		<text transform="matrix(1 0 0 1 370.6118 242.8237)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="9.6">0</tspan></text>
+		<text transform="matrix(1 0 0 1 375.8916 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="0.024">.  </tspan></text>
+		<text transform="matrix(1 0 0 1 385.7314 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">Recall</tspan></text>
+		<text transform="matrix(1 0 0 1 419.8291 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 427.749 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 434.9502 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">at</tspan></text>
+		<text transform="matrix(1 0 0 1 446.1924 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> velocit</tspan></text>
+		<text transform="matrix(1 0 0 1 485.2686 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y</tspan></text>
+		<text transform="matrix(1 0 0 1 491.749 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> is t</tspan></text>
+		<text transform="matrix(1 0 0 1 511.9072 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 519.3467 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan></text>
+		<text transform="matrix(1 0 0 1 528.2373 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">vect</tspan></text>
+		<text transform="matrix(1 0 0 1 550.8418 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">or t</tspan></text>
+		<text transform="matrix(1 0 0 1 569.8711 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 577.3115 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">at</tspan></text>
+		<text transform="matrix(1 0 0 1 588.5547 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> in</tspan></text>
+		<text transform="matrix(1 0 0 1 602.665 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">clu</tspan></text>
+		<text transform="matrix(1 0 0 1 618.9941 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">d</tspan></text>
+		<text transform="matrix(1 0 0 1 625.9541 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">es bot</tspan></text>
+		<text transform="matrix(1 0 0 1 657.9053 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 665.3457 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 673.0254 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 680.4658 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e sp</tspan></text>
+		<text transform="matrix(1 0 0 1 701.8828 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">eed</tspan></text>
+		<text transform="matrix(1 0 0 1 720.8652 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> an</tspan></text>
+		<text transform="matrix(1 0 0 1 737.8672 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">d</tspan></text>
+		<text transform="matrix(1 0 0 1 744.8271 239.7041)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 320.4517 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 327.8916 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e d</tspan></text>
+		<text transform="matrix(1 0 0 1 344.0049 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 347.8447 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">r</tspan></text>
+		<text transform="matrix(1 0 0 1 353.1245 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 359.1245 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">c</tspan></text>
+		<text transform="matrix(1 0 0 1 364.4043 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 369.2046 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ion</tspan></text>
+		<text transform="matrix(1 0 0 1 386.251 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> of a</tspan></text>
+		<text transform="matrix(1 0 0 1 409.5146 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 416.9541 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> obj</tspan></text>
+		<text transform="matrix(1 0 0 1 436.4131 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 442.4131 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">c</tspan></text>
+		<text transform="matrix(1 0 0 1 447.6924 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 452.4932 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">. S</tspan></text>
+		<text transform="matrix(1 0 0 1 466.6621 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 472.6621 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> in</tspan></text>
+		<text transform="matrix(1 0 0 1 487.0361 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">it</tspan></text>
+		<text transform="matrix(1 0 0 1 495.6494 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 499.249 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 505.9688 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">lly</tspan></text>
+		<text transform="matrix(1 0 0 1 518.3955 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">, t</tspan></text>
+		<text transform="matrix(1 0 0 1 529.6846 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 537.125 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e c</tspan></text>
+		<text transform="matrix(1 0 0 1 551.7979 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 558.5186 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 565.7178 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 573.1582 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">on</tspan></text>
+		<text transform="matrix(1 0 0 1 586.3916 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> ball</tspan></text>
+		<text transform="matrix(1 0 0 1 610.5762 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> has</tspan></text>
+		<text transform="matrix(1 0 0 1 633.5264 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 643.3662 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> veloc</tspan></text>
+		<text transform="matrix(1 0 0 1 674.3643 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 678.2041 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 682.7646 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">y</tspan></text>
+		<text transform="matrix(1 0 0 1 689.2441 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 697.1641 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 704.6045 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">at</tspan></text>
+		<text transform="matrix(1 0 0 1 715.8691 256.0239)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">in</tspan></text>
+		<text transform="matrix(1 0 0 1 326.8799 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">clu</tspan></text>
+		<text transform="matrix(1 0 0 1 343.2051 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">d</tspan></text>
+		<text transform="matrix(1 0 0 1 350.165 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">es bot</tspan></text>
+		<text transform="matrix(1 0 0 1 382.3467 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 389.7861 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 399.626 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> h</tspan></text>
+		<text transform="matrix(1 0 0 1 410.4268 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 416.4268 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">rizon</tspan></text>
+		<text transform="matrix(1 0 0 1 444.54 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 449.3408 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">a</tspan></text>
+		<text transform="matrix(1 0 0 1 455.8203 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">l</tspan></text>
+		<text transform="matrix(1 0 0 1 459.6611 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> com</tspan></text>
+		<text transform="matrix(1 0 0 1 485.165 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">p</tspan></text>
+		<text transform="matrix(1 0 0 1 491.8857 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 505.334 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">en</tspan></text>
+		<text transform="matrix(1 0 0 1 518.542 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 523.3428 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">,</tspan></text>
+		<text transform="matrix(1 0 0 1 526.7021 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 529.9717 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993">V</tspan></text>
+		<text transform="matrix(1 0 0 1 539.0918 273.064)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="9.6">x</tspan></text>
+		<text transform="matrix(1 0 0 1 544.8516 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> an</tspan></text>
+		<text transform="matrix(1 0 0 1 562.124 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">d a </tspan></text>
+		<text transform="matrix(1 0 0 1 582.2461 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ver</tspan></text>
+		<text transform="matrix(1 0 0 1 600.0518 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 604.8516 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ic</tspan></text>
+		<text transform="matrix(1 0 0 1 613.9531 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">al</tspan></text>
+		<text transform="matrix(1 0 0 1 624.2656 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> c</tspan></text>
+		<text transform="matrix(1 0 0 1 632.9053 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 638.9053 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">m</tspan></text>
+		<text transform="matrix(1 0 0 1 649.7061 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">p</tspan></text>
+		<text transform="matrix(1 0 0 1 656.666 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">on</tspan></text>
+		<text transform="matrix(1 0 0 1 669.9063 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ent</tspan></text>
+		<text transform="matrix(1 0 0 1 687.8799 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">,</tspan></text>
+		<text transform="matrix(1 0 0 1 691.2402 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> </tspan></text>
+		<text transform="matrix(1 0 0 1 694.6113 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993">V</tspan></text>
+		<text transform="matrix(1 0 0 1 703.7314 273.064)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="9.6">y</tspan></text>
+		<text transform="matrix(1 0 0 1 708.292 273.064)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="9.6">.</tspan></text>
+		<text transform="matrix(1 0 0 1 710.9316 269.9438)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">  </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">F</tspan></text>
+		<text transform="matrix(1 0 0 1 323.8115 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 329.0913 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">om</tspan></text>
+		<text transform="matrix(1 0 0 1 345.6611 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 349.021 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 353.5806 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 358.8608 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">igon</tspan></text>
+		<text transform="matrix(1 0 0 1 382.3135 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">om</tspan></text>
+		<text transform="matrix(1 0 0 1 399.1221 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">et</tspan></text>
+		<text transform="matrix(1 0 0 1 409.6924 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ry</tspan></text>
+		<text transform="matrix(1 0 0 1 420.0693 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">, it</tspan></text>
+		<text transform="matrix(1 0 0 1 435.124 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> is easy t</tspan></text>
+		<text transform="matrix(1 0 0 1 483.3486 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 489.3486 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> see </tspan></text>
+		<text transform="matrix(1 0 0 1 513.4131 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 517.9736 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 525.4131 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">at</tspan></text>
+		<text transform="matrix(1 0 0 1 536.6553 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 540.0146 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">w</tspan></text>
+		<text transform="matrix(1 0 0 1 549.1348 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 555.1348 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 558.4941 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">can</tspan></text>
+		<text transform="matrix(1 0 0 1 577.7139 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 581.0732 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">cal</tspan></text>
+		<text transform="matrix(1 0 0 1 596.6924 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">u</tspan></text>
+		<text transform="matrix(1 0 0 1 604.1328 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">lat</tspan></text>
+		<text transform="matrix(1 0 0 1 619.1631 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 625.1631 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 633.083 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 640.2832 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan></text>
+		<text transform="matrix(1 0 0 1 649.6523 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">com</tspan></text>
+		<text transform="matrix(1 0 0 1 671.5596 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">p</tspan></text>
+		<text transform="matrix(1 0 0 1 678.5195 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 691.9688 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">en</tspan></text>
+		<text transform="matrix(1 0 0 1 705.1787 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 709.9785 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">s</tspan></text>
+		<text transform="matrix(1 0 0 1 715.498 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> f</tspan></text>
+		<text transform="matrix(1 0 0 1 722.6982 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 727.9775 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">om</tspan></text>
+		<text transform="matrix(1 0 0 1 744.5469 298.2637)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 320.4517 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 327.8916 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e v</tspan></text>
+		<text transform="matrix(1 0 0 1 343.5039 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 349.5044 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">locit</tspan></text>
+		<text transform="matrix(1 0 0 1 373.2407 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y</tspan></text>
+		<text transform="matrix(1 0 0 1 379.4814 312.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">:</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">   </tspan></text>
+		<text transform="matrix(1 0 0 1 325.7314 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">        </tspan></text>
+		<text transform="matrix(1 0 0 1 352.6118 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.084">  </tspan></text>
+		<text transform="matrix(1 0 0 1 359.3315 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084"> V</tspan></text>
+		<text transform="matrix(1 0 0 1 373.9717 342.9038)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395" letter-spacing="0.21">x </tspan></text>
+		<text transform="matrix(1 0 0 1 384.0518 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.042">= V</tspan></text>
+		<text transform="matrix(1 0 0 1 407.3311 342.9038)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">0</tspan></text>
+		<text transform="matrix(1 0 0 1 413.5713 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014"> * co</tspan></text>
+		<text transform="matrix(1 0 0 1 445.0322 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">s(</tspan></text>
+		<text transform="matrix(1 0 0 1 457.4932 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014"> </tspan></text>
+		<text transform="matrix(1 0 0 1 461.334 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">T</tspan></text>
+		<text transform="matrix(1 0 0 1 471.6533 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">h</tspan></text>
+		<text transform="matrix(1 0 0 1 481.0137 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">e</tspan></text>
+		<text transform="matrix(1 0 0 1 489.1738 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">t</tspan></text>
+		<text transform="matrix(1 0 0 1 495.1729 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014">a</tspan></text>
+		<text transform="matrix(1 0 0 1 503.5723 339.5439)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.014"> )</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8921 372.1836)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="13.92" letter-spacing="-0.028">    </tspan></text>
+		<text transform="matrix(1 0 0 1 331.4937 372.1836)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="13.92" letter-spacing="-0.028">     </tspan></text>
+		<text transform="matrix(1 0 0 1 350.9351 372.1836)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="13.92" letter-spacing="-0.028">     </tspan></text>
+		<text transform="matrix(1 0 0 1 370.3726 372.1836)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92">V</tspan></text>
+		<text transform="matrix(1 0 0 1 380.9316 375.5444)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">y</tspan></text>
+		<text transform="matrix(1 0 0 1 387.8916 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.042"> = V</tspan></text>
+		<text transform="matrix(1 0 0 1 415.0117 375.5444)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">0</tspan></text>
+		<text transform="matrix(1 0 0 1 421.251 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.014"> * si</tspan></text>
+		<text transform="matrix(1 0 0 1 448.6367 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.014">n</tspan></text>
+		<text transform="matrix(1 0 0 1 457.9961 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.014">(</tspan></text>
+		<text transform="matrix(1 0 0 1 463.5166 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.014"> Theta</tspan></text>
+		<text transform="matrix(1 0 0 1 509.793 372.1841)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.014"> )</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">wh</tspan></text>
+		<text transform="matrix(1 0 0 1 332.4277 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ere </tspan></text>
+		<text transform="matrix(1 0 0 1 353.0918 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.024">Th</tspan></text>
+		<text transform="matrix(1 0 0 1 370.1318 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 376.8516 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 382.1318 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.024">a</tspan></text>
+		<text transform="matrix(1 0 0 1 389.3311 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> is t</tspan></text>
+		<text transform="matrix(1 0 0 1 409.9814 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 417.4209 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e a</tspan></text>
+		<text transform="matrix(1 0 0 1 433.2783 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 440.7178 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">gl</tspan></text>
+		<text transform="matrix(1 0 0 1 450.7793 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e of</tspan></text>
+		<text transform="matrix(1 0 0 1 470.2529 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 478.1729 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 485.6133 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e i</tspan></text>
+		<text transform="matrix(1 0 0 1 498.5898 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 506.0303 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">it</tspan></text>
+		<text transform="matrix(1 0 0 1 514.3867 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ial</tspan></text>
+		<text transform="matrix(1 0 0 1 528.4727 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 536.6328 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 541.9131 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">aject</tspan></text>
+		<text transform="matrix(1 0 0 1 568.0918 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ory of</tspan></text>
+		<text transform="matrix(1 0 0 1 599.3721 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 607.292 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 614.7314 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan></text>
+		<text transform="matrix(1 0 0 1 623.8682 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">c</tspan></text>
+		<text transform="matrix(1 0 0 1 629.3887 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">a</tspan></text>
+		<text transform="matrix(1 0 0 1 635.8682 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 643.3086 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 650.749 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 656.5088 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 663.9492 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">bal</tspan></text>
+		<text transform="matrix(1 0 0 1 680.9268 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">l.  T</tspan></text>
+		<text transform="matrix(1 0 0 1 702.7158 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 710.1563 402.4229)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">im</tspan></text>
+		<text transform="matrix(1 0 0 1 330.269 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">por</tspan></text>
+		<text transform="matrix(1 0 0 1 348.5112 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 353.0713 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ant</tspan></text>
+		<text transform="matrix(1 0 0 1 371.7095 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> poi</tspan></text>
+		<text transform="matrix(1 0 0 1 391.6318 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 399.0713 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 403.6318 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 411.792 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 417.792 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> </tspan></text>
+		<text transform="matrix(1 0 0 1 420.9111 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">gr</tspan></text>
+		<text transform="matrix(1 0 0 1 432.9131 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 439.3926 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 444.9131 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">p in</tspan></text>
+		<text transform="matrix(1 0 0 1 466.2148 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 474.375 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 481.5752 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">is</tspan></text>
+		<text transform="matrix(1 0 0 1 490.9121 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> les</tspan></text>
+		<text transform="matrix(1 0 0 1 509.6465 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 515.166 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 521.166 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 528.3662 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> is</tspan></text>
+		<text transform="matrix(1 0 0 1 540.8232 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">, as</tspan></text>
+		<text transform="matrix(1 0 0 1 559.7861 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> i</tspan></text>
+		<text transform="matrix(1 0 0 1 566.7461 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 574.1855 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 582.1055 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 589.5459 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e p</tspan></text>
+		<text transform="matrix(1 0 0 1 605.6631 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">r</tspan></text>
+		<text transform="matrix(1 0 0 1 610.9424 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">evious</tspan></text>
+		<text transform="matrix(1 0 0 1 646.2041 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> l</tspan></text>
+		<text transform="matrix(1 0 0 1 653.1641 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 659.1641 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 664.6846 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 670.4443 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">on</tspan></text>
+		<text transform="matrix(1 0 0 1 683.6816 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">, t</tspan></text>
+		<text transform="matrix(1 0 0 1 694.9746 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 702.415 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e f</tspan></text>
+		<text transform="matrix(1 0 0 1 715.6514 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 721.6514 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">r</tspan></text>
+		<text transform="matrix(1 0 0 1 727.1719 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">c</tspan></text>
+		<text transform="matrix(1 0 0 1 732.4521 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">es</tspan></text>
+		<text transform="matrix(1 0 0 1 744.0088 416.3428)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">act</tspan></text>
+		<text transform="matrix(1 0 0 1 332.4546 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 336.2944 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 343.4946 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">g</tspan></text>
+		<text transform="matrix(1 0 0 1 349.9746 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> on</tspan></text>
+		<text transform="matrix(1 0 0 1 366.5361 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 374.2163 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 381.6563 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e </tspan></text>
+		<text transform="matrix(1 0 0 1 390.5381 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">object</tspan></text>
+		<text transform="matrix(1 0 0 1 422.8965 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 425.7764 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 430.5771 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 436.5771 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> n</tspan></text>
+		<text transform="matrix(1 0 0 1 446.8975 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 452.8975 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 457.6963 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> c</tspan></text>
+		<text transform="matrix(1 0 0 1 465.8574 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 473.2979 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">an</tspan></text>
+		<text transform="matrix(1 0 0 1 487.1709 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ge wit</tspan></text>
+		<text transform="matrix(1 0 0 1 520.416 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 527.8564 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 530.7363 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 535.5361 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 539.376 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">m</tspan></text>
+		<text transform="matrix(1 0 0 1 549.9365 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 555.9365 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> (</tspan></text>
+		<text transform="matrix(1 0 0 1 563.1367 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">a</tspan></text>
+		<text transform="matrix(1 0 0 1 569.6172 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">s bef</tspan></text>
+		<text transform="matrix(1 0 0 1 595.0488 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 601.0488 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">re</tspan></text>
+		<text transform="matrix(1 0 0 1 612.1387 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">, we </tspan></text>
+		<text transform="matrix(1 0 0 1 636.8145 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ign</tspan></text>
+		<text transform="matrix(1 0 0 1 654.4814 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 660.4814 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">re t</tspan></text>
+		<text transform="matrix(1 0 0 1 679.4922 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 686.9316 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e </tspan></text>
+		<text transform="matrix(1 0 0 1 695.8135 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ef</tspan></text>
+		<text transform="matrix(1 0 0 1 705.8945 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">f</tspan></text>
+		<text transform="matrix(1 0 0 1 709.9746 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 715.9746 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ct</tspan></text>
+		<text transform="matrix(1 0 0 1 725.8643 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">s of</tspan></text>
+		<text transform="matrix(1 0 0 1 744.623 430.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">f</tspan></text>
+		<text transform="matrix(1 0 0 1 319.7319 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 325.252 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 328.8521 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">c</tspan></text>
+		<text transform="matrix(1 0 0 1 334.3721 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 338.9321 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 342.772 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">on</tspan></text>
+		<text transform="matrix(1 0 0 1 355.9761 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> f</tspan></text>
+		<text transform="matrix(1 0 0 1 363.416 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 368.6958 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">om</tspan></text>
+		<text transform="matrix(1 0 0 1 385.2598 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 393.4199 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 400.6201 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e at</tspan></text>
+		<text transform="matrix(1 0 0 1 421.2197 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">m</tspan></text>
+		<text transform="matrix(1 0 0 1 432.0186 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 438.0195 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">sp</tspan></text>
+		<text transform="matrix(1 0 0 1 450.5391 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 457.7393 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 463.7393 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">re)</tspan></text>
+		<text transform="matrix(1 0 0 1 479.1553 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">.</tspan></text>
+		<text transform="matrix(1 0 0 1 482.5146 444.4248)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">  </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">T</tspan></text>
+		<text transform="matrix(1 0 0 1 323.812 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 331.252 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">eref</tspan></text>
+		<text transform="matrix(1 0 0 1 352.4521 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">or</tspan></text>
+		<text transform="matrix(1 0 0 1 363.9829 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 369.7432 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">,</tspan></text>
+		<text transform="matrix(1 0 0 1 373.103 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 376.2236 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 381.0225 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 388.2236 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e p</tspan></text>
+		<text transform="matrix(1 0 0 1 404.5537 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 410.5537 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">sit</tspan></text>
+		<text transform="matrix(1 0 0 1 424.4717 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 428.3115 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 441.7627 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 444.8818 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">of</tspan></text>
+		<text transform="matrix(1 0 0 1 454.9736 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 462.8936 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 470.333 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e can</tspan></text>
+		<text transform="matrix(1 0 0 1 498.9248 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 506.3652 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">on</tspan></text>
+		<text transform="matrix(1 0 0 1 519.5762 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ball</tspan></text>
+		<text transform="matrix(1 0 0 1 540.333 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> at</tspan></text>
+		<text transform="matrix(1 0 0 1 555.1758 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 565.0156 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 572.4551 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">y t</tspan></text>
+		<text transform="matrix(1 0 0 1 586.8301 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 590.6699 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">m</tspan></text>
+		<text transform="matrix(1 0 0 1 601.2305 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 607.2305 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> af</tspan></text>
+		<text transform="matrix(1 0 0 1 621.1133 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 625.9131 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 631.9131 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r t</tspan></text>
+		<text transform="matrix(1 0 0 1 645.1719 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 649.0117 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">m</tspan></text>
+		<text transform="matrix(1 0 0 1 659.8115 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 665.8115 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 668.9316 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 673.7314 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">0</tspan></text>
+		<text transform="matrix(1 0 0 1 680.4521 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> can</tspan></text>
+		<text transform="matrix(1 0 0 1 703.0332 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> be cal</tspan></text>
+		<text transform="matrix(1 0 0 1 738.0684 470.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">-</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">cu</tspan></text>
+		<text transform="matrix(1 0 0 1 328.3682 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">l</tspan></text>
+		<text transform="matrix(1 0 0 1 332.208 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">a</tspan></text>
+		<text transform="matrix(1 0 0 1 338.9282 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">ted</tspan></text>
+		<text transform="matrix(1 0 0 1 356.4526 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 366.5327 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">s</tspan></text>
+		<text transform="matrix(1 0 0 1 372.0527 484.2646)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="-0.048">:</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">   </tspan></text>
+		<text transform="matrix(1 0 0 1 325.7319 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">        </tspan></text>
+		<text transform="matrix(1 0 0 1 352.6118 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="13.92" letter-spacing="-0.028">   </tspan></text>
+		<text transform="matrix(1 0 0 1 364.1318 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92">x</tspan></text>
+		<text transform="matrix(1 0 0 1 372.7715 515.2236)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">t</tspan></text>
+		<text transform="matrix(1 0 0 1 377.5713 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.209"> = V</tspan></text>
+		<text transform="matrix(1 0 0 1 404.6914 515.2236)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">x</tspan></text>
+		<text transform="matrix(1 0 0 1 411.4111 511.624)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084">  t </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8911 547.8623)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084">  </tspan></text>
+		<text transform="matrix(1 0 0 1 323.8115 547.8623)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084">   </tspan></text>
+		<text transform="matrix(1 0 0 1 335.8125 547.8623)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084">    </tspan></text>
+		<text transform="matrix(1 0 0 1 351.8931 547.8623)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.084">   y</tspan></text>
+		<text transform="matrix(1 0 0 1 372.5317 551.4639)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">t</tspan></text>
+		<text transform="matrix(1 0 0 1 377.3311 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.042"> = V</tspan></text>
+		<text transform="matrix(1 0 0 1 404.4521 551.4639)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">y</tspan></text>
+		<text transform="matrix(1 0 0 1 411.4111 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.07"> </tspan></text>
+		<text transform="matrix(1 0 0 1 415.252 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.07"> t -</tspan></text>
+		<text transform="matrix(1 0 0 1 433.9775 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="0.07"> </tspan></text>
+		<text transform="matrix(1 0 0 1 438.0518 542.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">1</tspan></text>
+		<text transform="matrix(1 0 0 1 444.5322 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92">/</tspan></text>
+		<text transform="matrix(1 0 0 1 448.3721 551.4639)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395" letter-spacing="-0.099">2 </tspan></text>
+		<text transform="matrix(1 0 0 1 457.9717 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92" letter-spacing="-0.111">g t</tspan></text>
+		<text transform="matrix(1 0 0 1 476.4521 542.3447)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.0395">2</tspan></text>
+		<text transform="matrix(1 0 0 1 482.9316 547.8643)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="13.92"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">wh</tspan></text>
+		<text transform="matrix(1 0 0 1 332.4277 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ere </tspan></text>
+		<text transform="matrix(1 0 0 1 353.0918 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="0.168">t </tspan></text>
+		<text transform="matrix(1 0 0 1 361.7314 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">is t</tspan></text>
+		<text transform="matrix(1 0 0 1 378.9971 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 386.4365 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e </tspan></text>
+		<text transform="matrix(1 0 0 1 395.5615 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">t</tspan></text>
+		<text transform="matrix(1 0 0 1 400.3623 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 404.2021 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">m</tspan></text>
+		<text transform="matrix(1 0 0 1 414.7617 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e</tspan></text>
+		<text transform="matrix(1 0 0 1 420.7617 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> in</tspan></text>
+		<text transform="matrix(1 0 0 1 435.1064 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> secon</tspan></text>
+		<text transform="matrix(1 0 0 1 468.8096 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">d</tspan></text>
+		<text transform="matrix(1 0 0 1 475.7695 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">s f</tspan></text>
+		<text transform="matrix(1 0 0 1 488.5303 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 494.0498 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">om</tspan></text>
+		<text transform="matrix(1 0 0 1 510.6143 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 518.5352 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 525.9746 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e f</tspan></text>
+		<text transform="matrix(1 0 0 1 539.1797 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 543.0195 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">rin</tspan></text>
+		<text transform="matrix(1 0 0 1 559.5771 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">g</tspan></text>
+		<text transform="matrix(1 0 0 1 565.8164 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 573.9766 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 581.1768 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e can</tspan></text>
+		<text transform="matrix(1 0 0 1 609.9912 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 617.1904 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">on</tspan></text>
+		<text transform="matrix(1 0 0 1 630.6357 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 640.4756 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">n</tspan></text>
+		<text transform="matrix(1 0 0 1 647.915 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">d</tspan></text>
+		<text transform="matrix(1 0 0 1 654.875 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 658.1318 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993">g</tspan></text>
+		<text transform="matrix(1 0 0 1 665.332 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> is</tspan></text>
+		<text transform="matrix(1 0 0 1 678.0195 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 685.9395 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 693.3799 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e a</tspan></text>
+		<text transform="matrix(1 0 0 1 709.2471 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">c</tspan></text>
+		<text transform="matrix(1 0 0 1 714.7676 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">c</tspan></text>
+		<text transform="matrix(1 0 0 1 720.0469 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 726.0469 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">l</tspan></text>
+		<text transform="matrix(1 0 0 1 729.6475 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 735.6475 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">r</tspan></text>
+		<text transform="matrix(1 0 0 1 741.167 578.1045)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">-</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">at</tspan></text>
+		<text transform="matrix(1 0 0 1 327.1631 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ion</tspan></text>
+		<text transform="matrix(1 0 0 1 344.2222 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> of gr</tspan></text>
+		<text transform="matrix(1 0 0 1 372.7808 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 379.2607 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">v</tspan></text>
+		<text transform="matrix(1 0 0 1 385.7412 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">it</tspan></text>
+		<text transform="matrix(1 0 0 1 394.1201 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">y (</tspan></text>
+		<text transform="matrix(1 0 0 1 407.8037 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">9</tspan></text>
+		<text transform="matrix(1 0 0 1 414.5244 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">.802</tspan></text>
+		<text transform="matrix(1 0 0 1 437.8018 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> m</tspan></text>
+		<text transform="matrix(1 0 0 1 451.9619 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">/</tspan></text>
+		<text transform="matrix(1 0 0 1 455.3223 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 460.8516 590.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="9.6">2</tspan></text>
+		<text transform="matrix(1 0 0 1 466.1318 595.3838)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.084">).</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">Qu</tspan></text>
+		<text transform="matrix(1 0 0 1 334.1255 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">es</tspan></text>
+		<text transform="matrix(1 0 0 1 346.8516 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">t</tspan></text>
+		<text transform="matrix(1 0 0 1 352.1313 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">i</tspan></text>
+		<text transform="matrix(1 0 0 1 356.4512 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">o</tspan></text>
+		<text transform="matrix(1 0 0 1 363.8911 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">n</tspan></text>
+		<text transform="matrix(1 0 0 1 372.0513 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">s</tspan></text>
+		<text transform="matrix(1 0 0 1 378.0518 621.3037)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Bold'" font-size="11.9993" letter-spacing="-0.168">:</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">1.</tspan></text>
+		<text transform="matrix(1 0 0 1 325.7246 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">  I</tspan></text>
+		<text transform="matrix(1 0 0 1 336.5244 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">f</tspan></text>
+		<text transform="matrix(1 0 0 1 340.3647 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 348.0449 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 355.2446 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e ini</tspan></text>
+		<text transform="matrix(1 0 0 1 378.96 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 383.7588 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ia</tspan></text>
+		<text transform="matrix(1 0 0 1 394.0596 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">l veloc</tspan></text>
+		<text transform="matrix(1 0 0 1 428.4287 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 432.2686 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 436.8291 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">y</tspan></text>
+		<text transform="matrix(1 0 0 1 443.3086 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> is</tspan></text>
+		<text transform="matrix(1 0 0 1 455.5293 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> 1</tspan></text>
+		<text transform="matrix(1 0 0 1 464.8896 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">5</tspan></text>
+		<text transform="matrix(1 0 0 1 471.6104 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> m</tspan></text>
+		<text transform="matrix(1 0 0 1 485.29 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">/</tspan></text>
+		<text transform="matrix(1 0 0 1 488.6494 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">s</tspan></text>
+		<text transform="matrix(1 0 0 1 494.1699 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 503.5303 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 510.9697 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">d t</tspan></text>
+		<text transform="matrix(1 0 0 1 525.3389 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 532.7793 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e b</tspan></text>
+		<text transform="matrix(1 0 0 1 548.1797 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 554.8994 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">r</tspan></text>
+		<text transform="matrix(1 0 0 1 560.1797 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">r</tspan></text>
+		<text transform="matrix(1 0 0 1 565.7002 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">el</tspan></text>
+		<text transform="matrix(1 0 0 1 575.3408 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> ang</tspan></text>
+		<text transform="matrix(1 0 0 1 598.5469 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">l</tspan></text>
+		<text transform="matrix(1 0 0 1 602.3867 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e is</tspan></text>
+		<text transform="matrix(1 0 0 1 620.6484 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> 50</tspan></text>
+		<text transform="matrix(1 0 0 1 637.0117 645.7842)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="9.6">o</tspan></text>
+		<text transform="matrix(1 0 0 1 641.8115 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 651.1719 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">b</tspan></text>
+		<text transform="matrix(1 0 0 1 657.8916 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">ove t</tspan></text>
+		<text transform="matrix(1 0 0 1 683.7871 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">h</tspan></text>
+		<text transform="matrix(1 0 0 1 691.2266 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">e h</tspan></text>
+		<text transform="matrix(1 0 0 1 707.3105 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">o</tspan></text>
+		<text transform="matrix(1 0 0 1 713.3105 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">r</tspan></text>
+		<text transform="matrix(1 0 0 1 718.8311 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">i</tspan></text>
+		<text transform="matrix(1 0 0 1 722.4307 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">zon</tspan></text>
+		<text transform="matrix(1 0 0 1 741.6504 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993">,</tspan></text>
+		<text transform="matrix(1 0 0 1 745.0107 650.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">wh</tspan></text>
+		<text transform="matrix(1 0 0 1 332.4575 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">at</tspan></text>
+		<text transform="matrix(1 0 0 1 343.7197 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> is t</tspan></text>
+		<text transform="matrix(1 0 0 1 364.6357 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 371.8359 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e m</tspan></text>
+		<text transform="matrix(1 0 0 1 391.7861 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 398.5059 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">xim</tspan></text>
+		<text transform="matrix(1 0 0 1 419.3506 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">u</tspan></text>
+		<text transform="matrix(1 0 0 1 426.79 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">m</tspan></text>
+		<text transform="matrix(1 0 0 1 437.3506 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> h</tspan></text>
+		<text transform="matrix(1 0 0 1 448.1494 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 454.1494 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 457.75 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">g</tspan></text>
+		<text transform="matrix(1 0 0 1 464.2295 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 471.6699 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 476.2295 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 484.1504 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 491.5908 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e c</tspan></text>
+		<text transform="matrix(1 0 0 1 506.2607 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">a</tspan></text>
+		<text transform="matrix(1 0 0 1 512.9805 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 520.1807 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 527.6201 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">on</tspan></text>
+		<text transform="matrix(1 0 0 1 540.8506 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> ball</tspan></text>
+		<text transform="matrix(1 0 0 1 565.0244 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> will</tspan></text>
+		<text transform="matrix(1 0 0 1 588.9707 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036"> r</tspan></text>
+		<text transform="matrix(1 0 0 1 597.6104 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">e</tspan></text>
+		<text transform="matrix(1 0 0 1 603.6104 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">ac</tspan></text>
+		<text transform="matrix(1 0 0 1 615.5928 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">h</tspan></text>
+		<text transform="matrix(1 0 0 1 623.0332 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">?</tspan></text>
+		<text transform="matrix(1 0 0 1 628.3125 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.036">  </tspan></text>
+		<text transform="matrix(1 0 0 1 635.0918 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">(</tspan></text>
+		<text transform="matrix(1 0 0 1 638.9316 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">M</tspan></text>
+		<text transform="matrix(1 0 0 1 650.2119 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">ou</tspan></text>
+		<text transform="matrix(1 0 0 1 663.624 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">se over f</tspan></text>
+		<text transform="matrix(1 0 0 1 707.5576 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 713.5576 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024">r</tspan></text>
+		<text transform="matrix(1 0 0 1 719.0781 664.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.024"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 678.6631)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.132">hi</tspan></text>
+		<text transform="matrix(1 0 0 1 327.1714 678.6631)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.132">nt</tspan></text>
+		<text transform="matrix(1 0 0 1 338.6914 678.6631)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.132">)</tspan></text>
+		<text transform="matrix(1 0 0 1 342.7715 678.6631)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.132">.</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">2.</tspan></text>
+		<text transform="matrix(1 0 0 1 325.7051 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> I</tspan></text>
+		<text transform="matrix(1 0 0 1 334.105 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">n</tspan></text>
+		<text transform="matrix(1 0 0 1 341.3052 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 349.4653 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 356.665 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e abov</tspan></text>
+		<text transform="matrix(1 0 0 1 391.6963 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 397.6963 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> exam</tspan></text>
+		<text transform="matrix(1 0 0 1 430.7959 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">p</tspan></text>
+		<text transform="matrix(1 0 0 1 437.7568 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">l</tspan></text>
+		<text transform="matrix(1 0 0 1 441.5967 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 447.3564 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">,</tspan></text>
+		<text transform="matrix(1 0 0 1 450.7158 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> h</tspan></text>
+		<text transform="matrix(1 0 0 1 461.2764 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 467.2764 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">w f</tspan></text>
+		<text transform="matrix(1 0 0 1 484.0742 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">a</tspan></text>
+		<text transform="matrix(1 0 0 1 490.5537 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">r will</tspan></text>
+		<text transform="matrix(1 0 0 1 519.8242 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 527.9844 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 535.1846 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e ball</tspan></text>
+		<text transform="matrix(1 0 0 1 565.3545 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 573.5146 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">r</tspan></text>
+		<text transform="matrix(1 0 0 1 578.7949 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">a</tspan></text>
+		<text transform="matrix(1 0 0 1 585.2744 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">v</tspan></text>
+		<text transform="matrix(1 0 0 1 591.7549 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">el b</tspan></text>
+		<text transform="matrix(1 0 0 1 611.418 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e</tspan></text>
+		<text transform="matrix(1 0 0 1 617.418 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">f</tspan></text>
+		<text transform="matrix(1 0 0 1 621.498 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">o</tspan></text>
+		<text transform="matrix(1 0 0 1 627.498 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">re it</tspan></text>
+		<text transform="matrix(1 0 0 1 650.5908 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> h</tspan></text>
+		<text transform="matrix(1 0 0 1 661.3906 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">i</tspan></text>
+		<text transform="matrix(1 0 0 1 664.9912 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">t</tspan></text>
+		<text transform="matrix(1 0 0 1 669.791 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">s</tspan></text>
+		<text transform="matrix(1 0 0 1 675.3105 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 683.2305 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">h</tspan></text>
+		<text transform="matrix(1 0 0 1 690.6709 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">e grou</tspan></text>
+		<text transform="matrix(1 0 0 1 725.0889 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">n</tspan></text>
+		<text transform="matrix(1 0 0 1 732.5293 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024">d</tspan></text>
+		<text transform="matrix(1 0 0 1 739.249 704.583)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.024"> </tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">(</tspan></text>
+		<text transform="matrix(1 0 0 1 319.7314 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">a</tspan></text>
+		<text transform="matrix(1 0 0 1 326.4517 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ssu</tspan></text>
+		<text transform="matrix(1 0 0 1 345.0254 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">m</tspan></text>
+		<text transform="matrix(1 0 0 1 355.585 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 361.585 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 369.7451 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 376.9453 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e </tspan><tspan x="9.359" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">“</tspan></text>
+		<text transform="matrix(1 0 0 1 391.1162 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">g</tspan></text>
+		<text transform="matrix(1 0 0 1 397.3564 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">r</tspan></text>
+		<text transform="matrix(1 0 0 1 402.876 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">o</tspan></text>
+		<text transform="matrix(1 0 0 1 408.876 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">u</tspan></text>
+		<text transform="matrix(1 0 0 1 416.0762 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 423.5166 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">d</tspan></text>
+		<text transform="matrix(1 0 0 1 430.2354 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">”</tspan></text>
+		<text transform="matrix(1 0 0 1 435.0361 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> i</tspan></text>
+		<text transform="matrix(1 0 0 1 441.9961 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">s</tspan></text>
+		<text transform="matrix(1 0 0 1 447.7559 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> </tspan></text>
+		<text transform="matrix(1 0 0 1 450.876 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 455.6758 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 462.876 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e f</tspan></text>
+		<text transform="matrix(1 0 0 1 476.3271 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">a</tspan></text>
+		<text transform="matrix(1 0 0 1 483.0469 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">in</tspan></text>
+		<text transform="matrix(1 0 0 1 494.0381 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">t</tspan></text>
+		<text transform="matrix(1 0 0 1 498.5977 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> brown</tspan></text>
+		<text transform="matrix(1 0 0 1 536.7764 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> l</tspan></text>
+		<text transform="matrix(1 0 0 1 543.7363 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">i</tspan></text>
+		<text transform="matrix(1 0 0 1 547.5771 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 555.0166 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e</tspan></text>
+		<text transform="matrix(1 0 0 1 560.7764 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">, w</tspan></text>
+		<text transform="matrix(1 0 0 1 576.6035 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 584.0439 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ich</tspan></text>
+		<text transform="matrix(1 0 0 1 600.373 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> is t</tspan></text>
+		<text transform="matrix(1 0 0 1 621.0107 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 628.4512 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e el</tspan></text>
+		<text transform="matrix(1 0 0 1 647.4326 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">evat</tspan></text>
+		<text transform="matrix(1 0 0 1 671.1406 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">ion</tspan></text>
+		<text transform="matrix(1 0 0 1 688.3828 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 696.3027 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">h</tspan></text>
+		<text transform="matrix(1 0 0 1 703.502 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">e c</tspan></text>
+		<text transform="matrix(1 0 0 1 718.3936 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">a</tspan></text>
+		<text transform="matrix(1 0 0 1 724.873 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">n</tspan></text>
+		<text transform="matrix(1 0 0 1 732.3135 718.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.012">-</tspan></text>
+		<text transform="matrix(1 0 0 1 315.8916 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">n</tspan></text>
+		<text transform="matrix(1 0 0 1 323.0918 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">o</tspan></text>
+		<text transform="matrix(1 0 0 1 329.0918 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">n ba</tspan></text>
+		<text transform="matrix(1 0 0 1 353.0391 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ll s</tspan></text>
+		<text transform="matrix(1 0 0 1 369.582 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">t</tspan></text>
+		<text transform="matrix(1 0 0 1 374.1421 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">ar</tspan></text>
+		<text transform="matrix(1 0 0 1 386.1455 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">t</tspan></text>
+		<text transform="matrix(1 0 0 1 390.9463 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">s</tspan></text>
+		<text transform="matrix(1 0 0 1 396.4658 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> a</tspan></text>
+		<text transform="matrix(1 0 0 1 406.3057 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">t</tspan></text>
+		<text transform="matrix(1 0 0 1 411.1064 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> t</tspan></text>
+		<text transform="matrix(1 0 0 1 419.0264 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">i</tspan></text>
+		<text transform="matrix(1 0 0 1 422.8662 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">m</tspan></text>
+		<text transform="matrix(1 0 0 1 433.4268 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">e</tspan></text>
+		<text transform="matrix(1 0 0 1 439.4268 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> zer</tspan></text>
+		<text transform="matrix(1 0 0 1 460.1816 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">o</tspan></text>
+		<text transform="matrix(1 0 0 1 465.9414 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048">)?</tspan></text>
+		<text transform="matrix(1 0 0 1 475.2686 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Roman'" font-size="11.9993" letter-spacing="0.048"> </tspan></text>
+		<text transform="matrix(1 0 0 1 478.6113 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">(</tspan></text>
+		<text transform="matrix(1 0 0 1 482.6914 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">M</tspan></text>
+		<text transform="matrix(1 0 0 1 493.9717 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">ou</tspan></text>
+		<text transform="matrix(1 0 0 1 507.3809 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">se over f</tspan></text>
+		<text transform="matrix(1 0 0 1 551.2939 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">o</tspan></text>
+		<text transform="matrix(1 0 0 1 557.2939 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">r h</tspan></text>
+		<text transform="matrix(1 0 0 1 573.3906 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">i</tspan></text>
+		<text transform="matrix(1 0 0 1 577.2314 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">n</tspan></text>
+		<text transform="matrix(1 0 0 1 584.6709 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">t</tspan></text>
+		<text transform="matrix(1 0 0 1 588.9912 736.5049)"><tspan x="0" y="0" font-family="'NewCenturySchlbk-Italic'" font-size="11.9993" letter-spacing="-0.036">)</tspan></text>
+	</g>
+
+	<script type="text/javascript"><![CDATA[
+	//======================== begin Javascript ============================================
+		var		posX      = 0;
+		var		posY      = 0;
+		var		deltaX    = 0;
+		var		deltaY    = 0;
+		var		bFlying   = 0;
+		var		bStarted  = 0;
+		var		startTime;
+		var		endTime;
+		var		deltaTime;
+		var		soundEffectID;
+		var		CannonBallID;
+		var		CannonBallPathID;
+		var		PathAnimID;
+		var		InfoID;
+		var		initialiVelocity = 0;
+		var		intervalID;
+		var		velocityID;
+		var		intervalIndex = 0;
+		var		maxIndex = 0;
+		var		gravity = 9.802;    // m/s**
+		var		cannonAngle = 50;	// degrees
+		var		speedY = 0;
+		var		speedX = 0;
+		var		DEG2RAD   = 0.0174532925199433
+		var		points      = "";
+		var		pointsCount = 0;
+		
+		function  getSVGDoc(node) 
+		{ 
+			if (node.getNodeType()==9) 
+				return node; 
+			else 
+				return node.getOwnerDocument(); 
+		}
+
+		function on_load(evt)
+		{
+			window.JS_svgdoc = getSVGDoc(evt.getTarget());
+			window.CannonBall_next_update = next_update;
+
+		}
+
+		function OnMouseDownFire(evt)
+		{
+			CannonBallID     = window.JS_svgdoc.getElementById('CannonBall');
+			CannonBallPathID = window.JS_svgdoc.getElementById('CannonBallPath');
+			velocityID       = window.JS_svgdoc.getElementById('velocity');
+			InfoID           = window.JS_svgdoc.getElementById('TrajectoryInfo');
+			PathAnimID       = window.JS_svgdoc.getElementById('PathAnim');
+
+			posX = evt.getScreenX();
+			posY = evt.getScreenY();
+			bFlying  = 1;
+
+			initialVelocity = 28;
+			speedY = initialVelocity * Math.sin(cannonAngle * DEG2RAD);
+			speedX = initialVelocity * Math.cos(cannonAngle * DEG2RAD);
+
+			// figure out time to max height, half the flight-time
+			flightTime  = speedY / gravity;
+			// then get the max height
+			maxHeight = speedY * flightTime;
+			// the the flight length
+			flightTime *= 2;
+			maxLength = flightTime * speedX;
+
+			// soundEffectID.setAttribute("xlink:href", "hit1.wav" );
+
+			intervalIndex = 0;
+			maxInterval = Math.ceil(flightTime * 20);  // in intervals of 50 milliseconds
+
+			CannonBallPathID.setAttribute("points", points );
+			CannonBallPathID.setAttribute("stroke-opacity", 1.0 );
+
+			intervalID = window.setTimeout('CannonBall_next_update()', 50);
+		}
+
+		function next_update ()
+		{
+			intervalIndex += 1;
+			var curTime  = intervalIndex / 20;	// 20 intervals per second
+
+			if (intervalIndex == 1 && bFlying == 1)
+			{
+				CannonBallID.setAttribute("display", "inline" );
+				points="";
+			}
+
+			if (intervalIndex >= maxInterval)
+			{
+				if (bFlying == 0)
+				{
+					window.clearTimeout( intervalID );
+					points = "";
+				}
+				else
+				{
+					intervalID = window.setTimeout('CannonBall_next_update()', 50);
+					bFlying = 0;
+					intervalIndex = 0;
+				}
+			}
+			else
+			{
+				intervalID = window.setTimeout('CannonBall_next_update()', 50);
+
+				if (bFlying == 1)
+				{
+					posX = curTime * speedX;
+					posY = curTime * speedY - 0.5 * gravity * curTime * curTime;
+
+					points = points + FFormat(posX,1) + ',';
+					points = points + FFormat(posY,1) + ' ';
+					// InfoID.getFirstChild().setData( 'points: ' + points);
+
+					CannonBallID.setAttribute("cy", posY );
+					CannonBallID.setAttribute("cx", posX );
+					CannonBallPathID.setAttribute("points", points );
+
+					// velocityID.getFirstChild().setData( 't: ' + FFormat(curTime,1) + ' v: ' + FFormat(velocity,1) + ' y: ' + FFormat(altitude,1));
+				}
+				else
+				{
+					CannonBallPathID.setAttribute("stroke-opacity", 1.0 - (intervalIndex / maxInterval) );
+				}
+			}
+		}
+
+		function FFormat ( val, nDec )
+		{
+			var mult   = Math.pow(10,nDec);
+			var newVal = Math.round(val * mult) / mult;
+			if ((Math.round(val) - newVal) == 0)
+			{
+				for ( i=0; i < nDec; i++ )
+				{
+					if (i== 0)
+					{
+						newVal += '.';
+					}
+
+					newVal += '0';
+				}
+			}
+
+			return newVal;
+		}
+
+	//======================== end of Javascript ============================================
+	]]></script>
+
+	</g>
+
+	<!-- path id="CannonBall" fill="url(#XMLID_7_)" d="M135.803,203.205c0,6.038-5.059,10.931-11.299,10.931h-2.301c-6.241,0-11.299-4.893-11.299-10.931c0-6.036,5.059-10.929,11.299-10.929h2.301C130.745,192.275,135.803,197.168,135.803,203.205z"/ -->
+	<!-- Set up a 100x50 coodinate system for the cannonball -->
+	<g transform="translate(130 300) scale(6.5 6.5) scale(1 -1)" >
+		<polyline id="CannonBallPath" fill="none" stroke="white" points="" stroke-width="4" >
+			<!-- animate id="PathAnim" attributeName="opacity" begin="" fill="freeze" dur="" from="1" to="0"/ -->
+		</polyline>
+
+		<radialGradient id="CannonShade" gradientUnits="objectBoundingBox" cx="0.35" cy="0.7" >
+			<stop  offset="0" stop-color="#FFFFFF"/>
+			<stop  offset="1" stop-color="#000000"/>
+		</radialGradient>
+		<circle id="CannonBall" fill="url(#CannonShade)" stroke="none" cx="0" cy="0" r="2" display="none"/>
+
+		<!-- text id="TrajectoryInfo" transform="matrix(0.75 0 0 -1 -15 -25)" style="font-family:'Lucida Console'; font-size:2;">info</text -->
+
+		<!-- attributeType="CSS"  begin="FireButton.mousedown" dur="1.46" repeatDur="1.46" fill="freeze" volume="1"/ -->
+
+	</g>
+
+		<g id="FireButton" onmousedown="OnMouseDownFire(evt)" transform="translate(0 100)"  fill-opacity="0.3">
+			<path  fill="blue" d="M110.398,340.302c0,6.567-5.489,11.893-12.26,11.893H50.393c-6.771,0-12.259-5.325-12.259-11.893c0-6.568,5.489-11.893,12.259-11.893h47.745C104.909,328.409,110.398,333.733,110.398,340.302z">
+				<!--  set attributeName="fill" begin="FireButton.mousedown" to="red" / -->
+				<!--  set attributeName="fill" begin="FireButton.mouseout" to="blue" / -->
+			</path>
+			<text id="FireText" pointer-events="none" transform="matrix(1.0653 0 0 1 59.5942 345.4658)" fill="white" font-family="'ComicSansMS-Bold'" font-size="14.0599">Fire</text>
+			<!-- set attributeName="fill-opacity" begin="FireButton.mouseover" to="1.0" / -->
+			<!-- set attributeName="fill-opacity" begin="FireButton.mouseout" to="0.3" / -->
+		</g>
+	</g>
+</svg>

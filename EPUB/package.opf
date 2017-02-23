@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" >
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="WebStorm/Dreamweaver/bash" />
+		<dc:title>SVG Animation</dc:title>
+        <dc:creator>Ric Wright</dc:creator>
+        <dc:publisher>Geo-F/X</dc:publisher>
+ 		<dc:date>2017-02-21T20:21:44Z</dc:date>
+   	    <meta property="dcterms:modified">2017-02-22T12:43:24Z</meta>
+		<dc:language>en-US</dc:language>
+		<dc:identifier id="bookid">urn:uuid:5b5e40d8-e952-4eb3-b1b4-0b5312d866f1</dc:identifier>
+		<!--layout options-->
+		<meta property="rendition:layout">reflowable</meta>
+		<meta property="rendition:spread">auto</meta>
+		<meta name="cover" content="svg-animation.png" />
+	</metadata>
+	<manifest>
+		<!--  images  -->
+  		<item id="svg-anim" href="images/svg-anim.png" media-type="image/png" />
+
+        <!-- svg -->
+        <item id="hurricane-svg" href="svg/HurricaneAndrew3.svg" media-type="image/svg+xml" />
+		<item id="lesson6-svg" href="svg/Lesson6JS.svg" media-type="image/svg+xml"  properties="scripted"/>
+		<item id="lesson7-svg" href="svg/Lesson7JS.svg" media-type="image/svg+xml"  properties="scripted"/>
+		<item id="statepop-svg" href="svg/StatePopDemo4.svg" media-type="image/svg+xml"  />
+
+		<!-- css -->
+		<item id="svg-anim-css" href="css/svg-anim.css" media-type="text/css"/>
+		<item id="prism-css" href="css/prism.css" media-type="text/css"/>
+
+ 		<!-- scripts -->
+        <item id="prism" href="js/prism.js" media-type="text/javascript"/>
+
+ 		<!-- fonts-js -->	
+
+		<!-- front matter -->
+		<item id="coverpage" href="frontmatter/cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="frontmatter/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="preface" href="frontmatter/preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="intro" href="frontmatter/intro.xhtml" media-type="application/xhtml+xml" />
+		<item id="colophon" href="frontmatter/colophon.xhtml" media-type="application/xhtml+xml" />
+
+		<!-- the explanations -->
+		<item id="lesson6" href="xhtml/lesson6.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item id="lesson7" href="xhtml/lesson7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item id="hurricane" href="xhtml/hurricane.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item id="statepop" href="xhtml/statepop.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+
+</manifest>
+	<spine>
+		<itemref idref="coverpage" />
+		<itemref idref="toc" />
+		<itemref idref="preface" />
+		<itemref idref="intro" />
+		<itemref idref="lesson6" />
+		<itemref idref="lesson6-svg"  properties="rendition:layout-pre-paginated"/>
+		<itemref idref="lesson7" />
+		<itemref idref="lesson7-svg"  properties="rendition:layout-pre-paginated"/>
+		<itemref idref="hurricane"/>
+		<itemref idref="hurricane-svg" properties="rendition:layout-pre-paginated"/>
+		<itemref idref="statepop" />
+		<itemref idref="statepop-svg"  properties="rendition:layout-pre-paginated"/>
+		<itemref idref="colophon"/>
+	</spine>
+</package>
