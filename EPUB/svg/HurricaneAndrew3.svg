@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="1024" viewBox="0 0 1200 600" style="overflow:hidden;" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="1024" viewBox="0 0 900 1100" style="overflow:hidden;" xml:space="preserve">
 
-	<g transform="rotate(-90) translate(-1024 0)">
+	<g transform="rotate(-90) translate(-900 0)">
 
 	<defs>
 		<filter id="Water" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
