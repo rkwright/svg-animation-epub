@@ -6,7 +6,7 @@
         <dc:creator>Ric Wright</dc:creator>
         <dc:publisher>Geo-F/X</dc:publisher>
  		<dc:date>2017-02-21T20:21:44Z</dc:date>
-   	    <meta property="dcterms:modified">2017-02-22T12:43:24Z</meta>
+   	    <meta property="dcterms:modified">2017-02-27T15:19:12Z</meta>
 		<dc:language>en-US</dc:language>
 		<dc:identifier id="bookid">urn:uuid:5b5e40d8-e952-4eb3-b1b4-0b5312d866f1</dc:identifier>
 		<!--layout options-->
@@ -17,21 +17,30 @@
 	<manifest>
 		<!--  images  -->
   		<item id="svg-anim" href="images/svg-anim.png" media-type="image/png" />
+        <item id="title" href="images/title.png" media-type="image/png" />
+
+		<!-- audio -->
+		<item id="audio-hit" href="audio/hit1.wav" media-type="audio/x-wav" />
+		<item id="audio-bell" href="audio/boxing_bell.wav" media-type="audio/x-wav" />
 
         <!-- svg -->
-        <item id="hurricane-svg" href="svg/HurricaneAndrew3.svg" media-type="image/svg+xml" />
-		<item id="lesson6-svg" href="svg/Lesson6JS.svg" media-type="image/svg+xml"  properties="scripted"/>
-		<item id="lesson7-svg" href="svg/Lesson7JS.svg" media-type="image/svg+xml"  properties="scripted"/>
-		<item id="statepop-svg" href="svg/StatePopDemo4.svg" media-type="image/svg+xml"  />
+		<item id="lesson6" href="svg/Lesson6JS.svg" media-type="image/svg+xml" properties="scripted"/>
+		<item id="lesson7" href="svg/Lesson7JS.svg" media-type="image/svg+xml"  properties="scripted"/>
+        <item id="statepop" href="svg/StatePopDemo4.svg" media-type="image/svg+xml"  />
+        <item id="hurricane" href="svg/HurricaneAndrew3.svg" media-type="image/svg+xml" />
+        <item id="tempwave" href="svg/TempWave.svg" media-type="image/svg+xml"  properties="scripted"/>
 
 		<!-- css -->
-		<item id="svg-anim-css" href="css/svg-anim.css" media-type="text/css"/>
+		<item id="styles-css" href="css/styles.css" media-type="text/css"/>
 		<item id="prism-css" href="css/prism.css" media-type="text/css"/>
 
  		<!-- scripts -->
         <item id="prism" href="js/prism.js" media-type="text/javascript"/>
+        <item id="lesson6-js" href="js/lesson6.js" media-type="text/javascript"/>
+        <item id="lesson7-js" href="js/lesson7.js" media-type="text/javascript"/>
+        <item id="tempwave-js" href="js/TempWave.js" media-type="text/javascript"/>
 
- 		<!-- fonts-js -->	
+ 		<!-- fonts-js -->
 
 		<!-- front matter -->
 		<item id="coverpage" href="frontmatter/cover.xhtml" media-type="application/xhtml+xml" />
@@ -41,10 +50,16 @@
 		<item id="colophon" href="frontmatter/colophon.xhtml" media-type="application/xhtml+xml" />
 
 		<!-- the explanations -->
-		<item id="lesson6" href="xhtml/lesson6.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-		<item id="lesson7" href="xhtml/lesson7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-		<item id="hurricane" href="xhtml/hurricane.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-		<item id="statepop" href="xhtml/statepop.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item id="lesson6-xhtml" href="xhtml/lesson6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+        <item id="lesson6-svg" href="xhtml/lesson6-svg.xhtml" media-type="application/xhtml+xml" />
+		<item id="lesson7-xhtml" href="xhtml/lesson7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+        <item id="lesson7-svg" href="xhtml/lesson7-svg.xhtml" media-type="application/xhtml+xml" />
+		<item id="hurricane-xhtml" href="xhtml/hurricane.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+        <item id="hurricane-svg" href="xhtml/hurricane-svg.xhtml" media-type="application/xhtml+xml" />
+		<item id="statepop-xhtml" href="xhtml/statepop.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+        <item id="statepop-svg" href="xhtml/statepop-svg.xhtml" media-type="application/xhtml+xml" />
+        <item id="tempwave-xhtml" href="xhtml/tempwave.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+        <item id="tempwave-svg" href="xhtml/tempwave-svg.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 
 </manifest>
 	<spine>
@@ -52,14 +67,16 @@
 		<itemref idref="toc" />
 		<itemref idref="preface" />
 		<itemref idref="intro" />
-		<itemref idref="lesson6" />
+		<itemref idref="lesson6-xhtml" />
 		<itemref idref="lesson6-svg"  properties="rendition:layout-pre-paginated"/>
-		<itemref idref="lesson7" />
+		<itemref idref="lesson7-xhtml" />
 		<itemref idref="lesson7-svg"  properties="rendition:layout-pre-paginated"/>
-		<itemref idref="hurricane"/>
+		<itemref idref="hurricane-xhtml"/>
 		<itemref idref="hurricane-svg" properties="rendition:layout-pre-paginated"/>
-		<itemref idref="statepop" />
+		<itemref idref="statepop-xhtml" />
 		<itemref idref="statepop-svg"  properties="rendition:layout-pre-paginated"/>
+        <itemref idref="tempwave-xhtml"/>
+        <itemref idref="tempwave-svg"/>
 		<itemref idref="colophon"/>
 	</spine>
 </package>
