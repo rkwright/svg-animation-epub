@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1593" height="739"
-     viewBox="0 0 1593 739" overflow="visible" xml:space="preserve" onload="on_load(evt)" id="cannon">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1593" height="1739"
+     viewBox="0 0 1593 1739" overflow="visible" xml:space="preserve" onload="on_load(evt)" id="cannon">
 
     <script type="text/javascript" xlink:href="../js/lesson7.js" />
 
@@ -131,7 +131,7 @@
 
         <!-- path id="CannonBall" fill="url(#XMLID_7_)" d="M135.803,203.205c0,6.038-5.059,10.931-11.299,10.931h-2.301c-6.241,0-11.299-4.893-11.299-10.931c0-6.036,5.059-10.929,11.299-10.929h2.301C130.745,192.275,135.803,197.168,135.803,203.205z"/ -->
         <!-- Set up a 100x50 coodinate system for the cannonball -->
-        <g transform="translate(130 300) scale(6.5 6.5) scale(1 -1)">
+        <g transform="translate(130 290) scale(6.5 6.5) scale(1 -1)">
             <polyline id="CannonBallPath" fill="none" stroke="white" points="" stroke-width="4">
                 <!-- animate id="PathAnim" attributeName="opacity" begin="" fill="freeze" dur="" from="1" to="0"/ -->
             </polyline>
@@ -148,7 +148,7 @@
 
         </g>
 
-        <g id="FireButton" onmousedown="OnMouseDownFire(evt)" transform="translate(0 100)" fill-opacity="0.3">
+        <g id="FireButton" onmousedown="OnMouseDownFire(evt)" transform="translate(0 100)" fill-opacity="1">
             <path fill="blue" d="M110.398,340.302c0,6.567-5.489,11.893-12.26,11.893H50.393c-6.771,0-12.259-5.325-12.259-11.893c0-6.568,5.489-11.893,12.259-11.893h47.745C104.909,328.409,110.398,333.733,110.398,340.302z">
                 <!--  set attributeName="fill" begin="FireButton.mousedown" to="red" / -->
                 <!--  set attributeName="fill" begin="FireButton.mouseout" to="blue" / -->

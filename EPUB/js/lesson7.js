@@ -1,29 +1,26 @@
 
+var     MIN_ALTITUDE = -200.0;
+var     INITIAL_VELOCITY = 28;
+var     OPACITY_DECREMENT = 0.005;
+var     CANNON_ANGLE = 45;
 var		posX      = 0;
 var		posY      = 0;
-var		deltaX    = 0;
-var		deltaY    = 0;
-var		bFlying   = 0;
-var		bStarted  = 0;
+var		bFlying   = false;
+var		bStarted  = false;
 var		startTime;
-var		endTime;
 var		deltaTime;
 var		CannonSound;
 var		CannonBall;
 var		CannonBallPath;
-var     TrajectoryInfo
-var		initialiVelocity = 0;
-var		intervalID;
+var     TrajectoryInfo;
+var		opacity = 1.0;
 var		velocity;
-var		intervalIndex = 0;
-var		maxIndex = 0;
 var		gravity = 9.802;    // m/s**
-var		cannonAngle = 50;	// degrees
 var		speedY = 0;
 var		speedX = 0;
 var		DEG2RAD   = 0.0174532925199433
 var		points      = "";
-var		pointsCount = 0;
+
 
 function on_load(evt)
 {
@@ -39,14 +36,19 @@ function on_load(evt)
 function OnMouseDownFire(evt)
 {
     CannonSound.play();
+    startTime = new Date();
 
     posX = evt.screenX;
     posY = evt.screenY;
-    bFlying  = 1;
+    CannonBall.setAttribute("display", "inline" );
 
-    initialVelocity = 28;
-    speedY = initialVelocity * Math.sin(cannonAngle * DEG2RAD);
-    speedX = initialVelocity * Math.cos(cannonAngle * DEG2RAD);
+    points="";
+    bFlying = true;
+    CannonBall.setAttribute("display", "inline" );
+
+    velocity = INITIAL_VELOCITY;
+    speedY = velocity * Math.sin(CANNON_ANGLE * DEG2RAD);
+    speedX = velocity * Math.cos(CANNON_ANGLE * DEG2RAD);
 
     // figure out time to max height, half the flight-time
     flightTime  = speedY / gravity;
@@ -56,51 +58,34 @@ function OnMouseDownFire(evt)
     flightTime *= 2;
     maxLength = flightTime * speedX;
 
-    // soundEffectID.setAttribute("xlink:href", "hit1.wav" );
-
-    intervalIndex = 0;
-    maxInterval = Math.ceil(flightTime * 20);  // in intervals of 50 milliseconds
+    opacity = 1.0;
 
     CannonBallPath.setAttribute("points", points );
     CannonBallPath.setAttribute("stroke-opacity", 1.0 );
 
-    intervalID = window.setInterval('CannonBall_next_update()', 32);
+    intervalID = window.setInterval('CannonBall_next_update()', 16);
 }
 
 function next_update ()
 {
-    intervalIndex += 1;
-    var curTime  = intervalIndex / 20;	// 20 intervals per second
+    var curTime = new Date();
+    deltaTime = (curTime.getTime() - startTime.getTime()) / 1000.0;
 
-    if (intervalIndex == 1 && bFlying == 1)
+    if (posY < MIN_ALTITUDE && bFlying == true)
     {
-        CannonBall.setAttribute("display", "inline" );
-        points="";
-    }
-
-    if (intervalIndex >= maxInterval)
-    {
-        if (bFlying == 0)
-        {
-            window.clearTimeout( intervalID );
-            points = "";
-        }
-        else
-        {
-            //intervalID = window.setTimeout('CannonBall_next_update()', 50);
-            bFlying = 0;
-            intervalIndex = 0;
-        }
+        bFlying = false;
+        console.log("Done flying");
     }
     else
     {
-        //intervalID = window.setTimeout('CannonBall_next_update()', 50);
-
-        if (bFlying == 1)
+        if (bFlying == true)
         {
-            posX = curTime * speedX;
-            posY = curTime * speedY - 0.5 * gravity * curTime * curTime;
+            posX = deltaTime * speedX;
+            posY = deltaTime * speedY - 0.5 * gravity * deltaTime * deltaTime;
             velocity = Math.sqrt(speedX*speedX + speedY*speedY);
+
+            console.log(" x: " + posX.toFixed(1) + " y:" + posY.toFixed(1) + " v: " + velocity.toFixed(1));
+
             points = points + posX.toFixed(1) + ',';
             points = points + posY.toFixed(1) + ' ';
 
@@ -108,11 +93,15 @@ function next_update ()
             CannonBall.setAttribute("cx", posX );
             CannonBallPath.setAttribute("points", points );
 
-            TrajectoryInfo.firstChild.nodeValue = 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1);
+            TrajectoryInfo.firstChild.nodeValue = 't: ' + deltaTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1);
         }
-        else
-        {
-            CannonBallPath.setAttribute("stroke-opacity", 1.0 - (intervalIndex / maxInterval) );
+        else {
+            opacity -= OPACITY_DECREMENT;
+            CannonBallPath.setAttribute("stroke-opacity", opacity );
+            if (opacity <= 0) {
+                window.clearTimeout( intervalID );
+                points = "";
+            }
         }
     }
 }
