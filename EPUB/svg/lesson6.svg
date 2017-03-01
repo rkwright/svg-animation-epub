@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg version="1.1" id="HighStriker" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="576px" height="1024px" viewBox="0 0 253.268 721.3623" enable-background="new 0 0 253.268 721.3623" xml:space="preserve" onload="on_load(evt)">
+<svg version="1.1" id="HighStriker" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px" width="280px" height="1024px" viewBox="-20 0 273.268 721.3623" enable-background="new 0 0 253.268 721.3623" xml:space="preserve" onload="on_load(evt)">
 
     <script type="text/javascript" xlink:href="../js/lesson6.js" />
 
@@ -57,11 +58,12 @@
 
             <rect id="Traveller" x="0.3772" y="0.4778" fill="gray" stroke="#000000" stroke-width="0.01" width="0.192" height="0.24" />
 
-            <text id="Velocity" transform="matrix(0.0135 0 0 -0.0179 -0.1031 -0.9627)" font-family="'LucidaConsole'" font-size="8.028">0</text>
+            <text id="Velocity" transform="matrix(0.0135 0 0 -0.0179 -0.1031 -0.9627)" font-family="'LucidaConsole'"
+                  font-size="10">0</text>
         </g>
 
         <path id="highstriker-redblock" fill="#DE2F09" stroke="#DE2F09" stroke-width="1.5" d="
-		M95.808,660.864H40.224v-20.928h55.584V660.864z" />
+	     	M95.808,660.864H40.224v-20.928h55.584V660.864z" />
     </g>
 
     <g id="Sledge" onmousedown="OnMouseDownSledge(evt)">
@@ -71,15 +73,15 @@
         </linearGradient>
         <path fill="url(#SVGID_2_)" stroke="#0000ff" d="M234.528,620.544l-12.96-0.096l0.768-158.112l12.96,0.096L234.528,620.544z" />
         <path opacity="0.45" fill="#DEA814" stroke="#000000" enable-background="new    " d="M234.528,620.544l-12.96-0.096l0.768-158.112
-	l12.96,0.096L234.528,620.544z" />
+	        l12.96,0.096L234.528,620.544z" />
         <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-679.2346" y1="656.0909" x2="-660.4358" y2="656.0909" gradientTransform="matrix(-0.014 0.9599 0.9599 0.014 -410.6923 1086.4474)">
             <stop offset="0" style="stop-color:#FFFFFF" />
             <stop offset="1" style="stop-color:#000000" />
         </linearGradient>
 
         <path fill="url(#SVGID_3_)" stroke="#000000" d="M213.408,461.472
-	c-5.088-0.096-9.216-0.48-9.216-0.96l0.192-16.32c0-0.48,4.128-0.768,9.216-0.768l29.952,0.48c5.088,0.096,9.216,0.48,9.216,0.96
-	l-0.192,16.32c0,0.48-4.128,0.768-9.216,0.768L213.408,461.472z" />
+        	c-5.088-0.096-9.216-0.48-9.216-0.96l0.192-16.32c0-0.48,4.128-0.768,9.216-0.768l29.952,0.48c5.088,0.096,9.216,0.48,9.216,0.96
+	        l-0.192,16.32c0,0.48-4.128,0.768-9.216,0.768L213.408,461.472z" />
     </g>
     <g transform="matrix(0.667 0 0 -1 0 0)">
         <text transform="matrix(1.9013 0 0 -1 147.9933 -591.481)" font-family="'CenturySchoolbook-Bold'" font-size="18.732">1</text>

@@ -6,7 +6,7 @@
         <dc:creator>Ric Wright</dc:creator>
         <dc:publisher>Geo-F/X</dc:publisher>
  		<dc:date>2017-02-21T20:21:44Z</dc:date>
-   	    <meta property="dcterms:modified">2017-03-01T15:18:30Z</meta>
+   	    <meta property="dcterms:modified">2017-03-01T16:10:29Z</meta>
 		<dc:language>en-US</dc:language>
 		<dc:identifier id="bookid">urn:uuid:5b5e40d8-e952-4eb3-b1b4-0b5312d866f1</dc:identifier>
 		<!--layout options-->
@@ -53,9 +53,9 @@
 
 		<!-- the explanations -->
 		<item id="lesson6-xhtml" href="xhtml/lesson6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
-        <item id="lesson6-svg" href="xhtml/lesson6-svg.xhtml" media-type="application/xhtml+xml" />
+        <item id="lesson6-svg" href="xhtml/lesson6-svg.xhtml" media-type="application/xhtml+xml"/>
 		<item id="lesson7-xhtml" href="xhtml/lesson7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-        <item id="lesson7-svg" href="xhtml/lesson7-svg.xhtml" media-type="application/xhtml+xml" />
+        <item id="lesson7-svg" href="xhtml/lesson7-svg.xhtml" media-type="application/xhtml+xml"/>
 		<item id="hurricane-xhtml" href="xhtml/hurricane.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
         <item id="hurricane-svg" href="xhtml/hurricane-svg.xhtml" media-type="application/xhtml+xml" />
 		<item id="statepop-xhtml" href="xhtml/statepop.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
@@ -70,9 +70,9 @@
 		<itemref idref="preface" />
 		<itemref idref="intro" />
 		<itemref idref="lesson6-xhtml" />
-		<itemref idref="lesson6-svg"  properties="rendition:layout-pre-paginated"/>
+		<itemref idref="lesson6-svg" />
 		<itemref idref="lesson7-xhtml" />
-		<itemref idref="lesson7-svg"  properties="rendition:layout-pre-paginated"/>
+		<itemref idref="lesson7-svg"  />
 		<itemref idref="hurricane-xhtml"/>
 		<itemref idref="hurricane-svg" properties="rendition:layout-pre-paginated"/>
 		<itemref idref="statepop-xhtml" />
