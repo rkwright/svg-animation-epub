@@ -1,17 +1,18 @@
 
-var     MIN_ALTITUDE = -200.0;
-var     INITIAL_VELOCITY = 28;
+var     MIN_ALTITUDE = -175.0;
+var     INITIAL_VELOCITY = 24;
 var     OPACITY_DECREMENT = 0.005;
 var     CANNON_ANGLE = 45;
 var		posX      = 0;
 var		posY      = 0;
 var		bFlying   = false;
-var		bStarted  = false;
 var		startTime;
 var		deltaTime;
 var		CannonSound;
 var		CannonBall;
 var		CannonBallPath;
+var     FireButtonFill;
+var     FireButton;
 var     TrajectoryInfo;
 var		opacity = 1.0;
 var		velocity;
@@ -28,9 +29,11 @@ function on_load(evt)
     window.CannonBall_next_update = next_update;
 
     CannonBall     = window.JS_svgdoc.getElementById('CannonBall');
-    TrajectoryInfo   = window.JS_svgdoc.getElementById('TrajectoryInfo');
-    CannonBallPath   = window.JS_svgdoc.getElementById('CannonBallPath');
-    CannonSound = window.parent.document.getElementById("audio-cannon");
+    TrajectoryInfo = window.JS_svgdoc.getElementById('TrajectoryInfo');
+    CannonBallPath = window.JS_svgdoc.getElementById('CannonBallPath');
+    FireButton     = window.JS_svgdoc.getElementById('FireButton');
+    FireButtonFill = window.JS_svgdoc.getElementById('FireButtonFill');
+    CannonSound    = window.parent.document.getElementById("audio-cannon");
 }
 
 function OnMouseDownFire(evt)
@@ -62,7 +65,9 @@ function OnMouseDownFire(evt)
 
     CannonBallPath.setAttribute("points", points );
     CannonBallPath.setAttribute("stroke-opacity", 1.0 );
-
+    FireButtonFill.setAttribute("fill", "#000080");
+    FireButton.setAttribute("pointer-events", "none" );
+    FireButton.setAttribute("opacity", "0.5");
     intervalID = window.setInterval('CannonBall_next_update()', 16);
 }
 
@@ -84,7 +89,7 @@ function next_update ()
             posY = deltaTime * speedY - 0.5 * gravity * deltaTime * deltaTime;
             velocity = Math.sqrt(speedX*speedX + speedY*speedY);
 
-            console.log(" x: " + posX.toFixed(1) + " y:" + posY.toFixed(1) + " v: " + velocity.toFixed(1));
+            //console.log(" x: " + posX.toFixed(1) + " y:" + posY.toFixed(1) + " v: " + velocity.toFixed(1));
 
             points = points + posX.toFixed(1) + ',';
             points = points + posY.toFixed(1) + ' ';
@@ -101,6 +106,9 @@ function next_update ()
             if (opacity <= 0) {
                 window.clearTimeout( intervalID );
                 points = "";
+                FireButtonFill.setAttribute("fill", "#C00000");
+                FireButton.setAttribute("opacity", "1");
+                FireButton.setAttribute("pointer-events", "auto" );
             }
         }
     }
