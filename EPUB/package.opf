@@ -6,17 +6,17 @@
         <dc:creator>Ric Wright</dc:creator>
         <dc:publisher>Geo-F/X</dc:publisher>
  		<dc:date>2017-02-21T20:21:44Z</dc:date>
-   	    <meta property="dcterms:modified">2017-02-27T16:34:19Z</meta>
+   	    <meta property="dcterms:modified">2017-02-28T16:53:50Z</meta>
 		<dc:language>en-US</dc:language>
 		<dc:identifier id="bookid">urn:uuid:5b5e40d8-e952-4eb3-b1b4-0b5312d866f1</dc:identifier>
 		<!--layout options-->
 		<meta property="rendition:layout">reflowable</meta>
 		<meta property="rendition:spread">auto</meta>
-		<meta name="cover" content="svg-animation.png" />
+		<meta name="cover" content="svg-anim.png" />
 	</metadata>
 	<manifest>
 		<!--  images  -->
-  		<item id="svg-anim" href="images/svg-anim.png" media-type="image/png" />
+  		<item id="svg-anim.png" href="images/svg-anim.png" media-type="image/png" />
         <item id="title" href="images/title.png" media-type="image/png" />
 
 		<!-- audio -->
@@ -24,8 +24,8 @@
 		<item id="audio-bell" href="audio/boxing_bell.wav" media-type="audio/x-wav" />
 
         <!-- svg -->
-		<item id="lesson6" href="svg/Lesson6JS.svg" media-type="image/svg+xml" properties="scripted"/>
-		<item id="lesson7" href="svg/Lesson7JS.svg" media-type="image/svg+xml"  properties="scripted"/>
+		<item id="lesson6" href="svg/lesson6.svg" media-type="image/svg+xml" properties="scripted"/>
+		<item id="lesson7" href="svg/lesson7.svg" media-type="image/svg+xml"  properties="scripted"/>
         <item id="statepop" href="svg/StatePopDemo4.svg" media-type="image/svg+xml"  />
         <item id="hurricane" href="svg/HurricaneAndrew3.svg" media-type="image/svg+xml" />
         <item id="tempwave" href="svg/TempWave.svg" media-type="image/svg+xml"  properties="scripted"/>
@@ -44,7 +44,7 @@
  		<!-- fonts-js -->
 
 		<!-- front matter -->
-		<item id="coverpage" href="frontmatter/cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="coverpage" href="frontmatter/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item id="toc" href="frontmatter/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item id="preface" href="frontmatter/preface.xhtml" media-type="application/xhtml+xml" />
 		<item id="intro" href="frontmatter/intro.xhtml" media-type="application/xhtml+xml" />

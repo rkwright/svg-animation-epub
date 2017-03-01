@@ -9,10 +9,9 @@ var		startTime;
 var		endTime;
 var		deltaTime;
 var		soundEffectID;
-var		CannonBallID;
-var		CannonBallPathID;
-var		PathAnimID;
-var		InfoID;
+var		CannonBall;
+var		CannonBallPath;
+var     TrajectoryInfo
 var		initialiVelocity = 0;
 var		intervalID;
 var		velocityID;
@@ -28,27 +27,16 @@ var		pointsCount = 0;
 
 function on_load(evt)
 {
-    window.JS_svgdoc = getSVGDoc(evt.getTarget());
+    window.JS_svgdoc = document.getElementById('cannon');
     window.CannonBall_next_update = next_update;
 
-}
-
-function  getSVGDoc(node)
-{
-    if (node.getNodeType()==9)
-        return node;
-    else
-        return node.getOwnerDocument();
+    CannonBall     = window.JS_svgdoc.getElementById('CannonBall');
+    TrajectoryInfo   = window.JS_svgdoc.getElementById('TrajectoryInfo');
+    CannonBallPath   = window.JS_svgdoc.getElementById('PathAnim');
 }
 
 function OnMouseDownFire(evt)
 {
-    CannonBallID     = window.JS_svgdoc.getElementById('CannonBall');
-    CannonBallPathID = window.JS_svgdoc.getElementById('CannonBallPath');
-    velocityID       = window.JS_svgdoc.getElementById('velocity');
-    InfoID           = window.JS_svgdoc.getElementById('TrajectoryInfo');
-    PathAnimID       = window.JS_svgdoc.getElementById('PathAnim');
-
     posX = evt.getScreenX();
     posY = evt.getScreenY();
     bFlying  = 1;
@@ -118,7 +106,7 @@ function next_update ()
             CannonBallID.setAttribute("cx", posX );
             CannonBallPathID.setAttribute("points", points );
 
-            // velocityID.getFirstChild().setData( 't: ' + FFormat(curTime,1) + ' v: ' + FFormat(velocity,1) + ' y: ' + FFormat(altitude,1));
+            velocityID.getFirstChild().setData( 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + altitude.toFixed(1));
         }
         else
         {
@@ -127,23 +115,4 @@ function next_update ()
     }
 }
 
-function FFormat ( val, nDec )
-{
-    var mult   = Math.pow(10,nDec);
-    var newVal = Math.round(val * mult) / mult;
-    if ((Math.round(val) - newVal) == 0)
-    {
-        for ( i=0; i < nDec; i++ )
-        {
-            if (i== 0)
-            {
-                newVal += '.';
-            }
-
-            newVal += '0';
-        }
-    }
-
-    return newVal;
-}
 
