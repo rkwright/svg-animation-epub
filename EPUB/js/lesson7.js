@@ -32,13 +32,13 @@ function on_load(evt)
 
     CannonBall     = window.JS_svgdoc.getElementById('CannonBall');
     TrajectoryInfo   = window.JS_svgdoc.getElementById('TrajectoryInfo');
-    CannonBallPath   = window.JS_svgdoc.getElementById('PathAnim');
+    CannonBallPath   = window.JS_svgdoc.getElementById('CannonBallPath');
 }
 
 function OnMouseDownFire(evt)
 {
-    posX = evt.getScreenX();
-    posY = evt.getScreenY();
+    posX = evt.screenX;
+    posY = evt.screenY;
     bFlying  = 1;
 
     initialVelocity = 28;
@@ -58,8 +58,8 @@ function OnMouseDownFire(evt)
     intervalIndex = 0;
     maxInterval = Math.ceil(flightTime * 20);  // in intervals of 50 milliseconds
 
-    CannonBallPathID.setAttribute("points", points );
-    CannonBallPathID.setAttribute("stroke-opacity", 1.0 );
+    CannonBallPath.setAttribute("points", points );
+    CannonBallPath.setAttribute("stroke-opacity", 1.0 );
 
     intervalID = window.setTimeout('CannonBall_next_update()', 50);
 }
@@ -71,7 +71,7 @@ function next_update ()
 
     if (intervalIndex == 1 && bFlying == 1)
     {
-        CannonBallID.setAttribute("display", "inline" );
+        CannonBall.setAttribute("display", "inline" );
         points="";
     }
 
@@ -98,19 +98,19 @@ function next_update ()
             posX = curTime * speedX;
             posY = curTime * speedY - 0.5 * gravity * curTime * curTime;
 
-            points = points + FFormat(posX,1) + ',';
-            points = points + FFormat(posY,1) + ' ';
+            points = points + posX.toFixed(1) + ',';
+            points = points + posY.toFixed(1) + ' ';
             // InfoID.getFirstChild().setData( 'points: ' + points);
 
-            CannonBallID.setAttribute("cy", posY );
-            CannonBallID.setAttribute("cx", posX );
-            CannonBallPathID.setAttribute("points", points );
+            CannonBall.setAttribute("cy", posY );
+            CannonBall.setAttribute("cx", posX );
+            CannonBallPath.setAttribute("points", points );
 
-            velocityID.getFirstChild().setData( 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + altitude.toFixed(1));
+            infoID.firstChild.nodeValue = 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + altitude.toFixed(1);
         }
         else
         {
-            CannonBallPathID.setAttribute("stroke-opacity", 1.0 - (intervalIndex / maxInterval) );
+            CannonBallPath.setAttribute("stroke-opacity", 1.0 - (intervalIndex / maxInterval) );
         }
     }
 }
