@@ -8,13 +8,13 @@ var		bStarted  = 0;
 var		startTime;
 var		endTime;
 var		deltaTime;
-var		soundEffectID;
+var		CannonSound;
 var		CannonBall;
 var		CannonBallPath;
 var     TrajectoryInfo
 var		initialiVelocity = 0;
 var		intervalID;
-var		velocityID;
+var		velocity;
 var		intervalIndex = 0;
 var		maxIndex = 0;
 var		gravity = 9.802;    // m/s**
@@ -33,10 +33,13 @@ function on_load(evt)
     CannonBall     = window.JS_svgdoc.getElementById('CannonBall');
     TrajectoryInfo   = window.JS_svgdoc.getElementById('TrajectoryInfo');
     CannonBallPath   = window.JS_svgdoc.getElementById('CannonBallPath');
+    CannonSound = window.parent.document.getElementById("audio-cannon");
 }
 
 function OnMouseDownFire(evt)
 {
+    CannonSound.play();
+
     posX = evt.screenX;
     posY = evt.screenY;
     bFlying  = 1;
@@ -61,7 +64,7 @@ function OnMouseDownFire(evt)
     CannonBallPath.setAttribute("points", points );
     CannonBallPath.setAttribute("stroke-opacity", 1.0 );
 
-    intervalID = window.setTimeout('CannonBall_next_update()', 50);
+    intervalID = window.setInterval('CannonBall_next_update()', 32);
 }
 
 function next_update ()
@@ -84,29 +87,28 @@ function next_update ()
         }
         else
         {
-            intervalID = window.setTimeout('CannonBall_next_update()', 50);
+            //intervalID = window.setTimeout('CannonBall_next_update()', 50);
             bFlying = 0;
             intervalIndex = 0;
         }
     }
     else
     {
-        intervalID = window.setTimeout('CannonBall_next_update()', 50);
+        //intervalID = window.setTimeout('CannonBall_next_update()', 50);
 
         if (bFlying == 1)
         {
             posX = curTime * speedX;
             posY = curTime * speedY - 0.5 * gravity * curTime * curTime;
-
+            velocity = Math.sqrt(speedX*speedX + speedY*speedY);
             points = points + posX.toFixed(1) + ',';
             points = points + posY.toFixed(1) + ' ';
-            // InfoID.getFirstChild().setData( 'points: ' + points);
 
             CannonBall.setAttribute("cy", posY );
             CannonBall.setAttribute("cx", posX );
             CannonBallPath.setAttribute("points", points );
 
-            infoID.firstChild.nodeValue = 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + altitude.toFixed(1);
+            TrajectoryInfo.firstChild.nodeValue = 't: ' + curTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1);
         }
         else
         {
