@@ -1,22 +1,16 @@
     var     posY      = 0;
-    var     deltaX    = 0;
-    var     deltaY    = 0;
+    var     initialVelocity = 0;
     var     traveling = false;
-    var     bStarted  = 0;
     var     startTime;
-    var     endTime;
     var     deltaTime;
     var     sledgeAnchorX = 227;
     var     sledgeAnchorY = 614;
-    var     sledgeID;
-    var     bellSoundID;
-    var     hitEffectID;
-    var     travellerID;
-    var     initialiVelocity = 0;
+    var     sledge;
+    var     bellSound;
+    var     hitSound;
+    var     traveller;
     var     intervalID;
-    var     velocityID;
-    var     intervalIndex = 0;
-    var     maxIndex = 0;
+    var     velocity;
     var     gravity = 9.8;    // m/s**
 
     function on_load(evt) {
@@ -24,14 +18,11 @@
         window.JS_svgdoc = document.getElementById('HighStriker');
         window.Traveller_next_update = next_update;
 
-        //window.JS_svgdoc.addEventListener("mousedown", alert_click, false);
-
-        sledgeID = window.JS_svgdoc.getElementById('Sledge');
-        travellerID  = window.JS_svgdoc.getElementById('Traveller');
-        velocityID  = window.JS_svgdoc.getElementById('Velocity');
-        bellSoundID = window.parent.document.getElementById("audio-bell");
-        hitEffectID  = window.parent.document.getElementById('audio-hit');
-
+        sledge    = window.JS_svgdoc.getElementById('Sledge');
+        traveller = window.JS_svgdoc.getElementById('Traveller');
+        info      = window.JS_svgdoc.getElementById('Velocity');
+        bellSound = window.parent.document.getElementById("audio-bell");
+        hitSound  = window.parent.document.getElementById('audio-hit');
     }
 
     function OnMouseDownSledge(evt)
@@ -42,13 +33,12 @@
             setSledge( -90 );
 
             startTime = new Date();
-            endTime = new Date();
 
             initialVelocity = 13.85;
 
             console.log( 'InitialVelocity: ' + initialVelocity );
 
-            hitEffectID.play();
+            hitSound.play();
 
             intervalID = window.setInterval('Traveller_next_update()', 16);
         }
@@ -60,34 +50,32 @@
         deltaTime = (curTime.getTime() - startTime.getTime()) / 1000.0;
 
         velocity = initialVelocity - deltaTime * gravity;
-        altitude = deltaTime * initialVelocity - 0.5 * gravity * deltaTime * deltaTime;
+        posY = deltaTime * initialVelocity - 0.5 * gravity * deltaTime * deltaTime;
 
-        console.log("v: " + velocity + " alt: " + altitude);
+        //console.log("v: " + velocity + " alt: " + altitude);
 
         // did we ring the bell?
-        if (altitude >= 9.7) {
-            altitude = 9.7;
+        if (posY >= 9.7) {
+            posY = 9.7;
             velocity = 0;
-            console.log('ringbell!');
-            bellSoundID.play();
+            bellSound.play();
         }
-        else if (altitude <= 0 ) {
-            altitude = 0;
+        else if (posY <= 0 ) {
+            posY = 0;
             traveling = false;
-            hitEffectID.play();
+            hitSound.play();
             window.clearInterval( intervalID );
-            console.log("Stopping animation");
         }
 
         if (deltaTime > 1.0)
             setSledge(0);
 
-        travellerID.setAttribute("y", altitude + 0.4778 );
-        velocityID.firstChild.nodeValue = ( 't: ' + deltaTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + altitude.toFixed(1));
+        traveller.setAttribute("y", posY + 0.4778 );
+        info.firstChild.nodeValue = ( 't: ' + deltaTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1));
     }
 
-    function    setSledge( angle )
+    function setSledge( angle )
     {
-        sledgeID.setAttribute("transform", "rotate("+ angle + " " + sledgeAnchorX + " " + sledgeAnchorY + ")");
+        sledge.setAttribute("transform", "rotate("+ angle + " " + sledgeAnchorX + " " + sledgeAnchorY + ")");
     }
 
