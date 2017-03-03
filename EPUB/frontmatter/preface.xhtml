@@ -8,16 +8,29 @@
 <body>
 <div class="body">
 <h1>Preface</h1>
-<p>This book is an exploration of the various methods available to animate SVG, including declarative SVG animation,
-	JavaScript and CSS3 animation. These explorations have take place sporadically over almost 2 decades. The author,
-	Ric Wright, is one of the original members of the SVG working group and a member of the team that developed the Adobe
-	SVG Viewer (ASV) as well as the SVG authoring tools at Adobe. The author was in fact responsible for most of the
-	import/export code at Adobe, including Illustrator and Indesign as well as LiveMotion (never shipped).</p>
-<p>Ric is currently the Director of Engineering for the <a href="http://readium.org/">Readium</a> project, which is an
-	open-source	foundation dedicated to providing web apps and a SDK for rendering <a href="http://idpf.org/epub/301">EPUB</a>, the
-	standard format for eBooks. As a demonstration of the capabilities of EPUB and Readium, Ric took these examples and
-	created this EPUB. </p>
-<p>The details of how this book was created are covered in the colophon at the end of the book.</p>
+<h2>Goal of this Book</h2>
+<p>This little EPUB is being written to demonstrate several of the ways that animated SVG can be used for illustrating
+	educational and related ideas. It is not intended as a tutorial on SVG itself nor is it an exhaustive examination of
+	all the ways that one might use SVG animation. Still it covers the three basic methods for animating SVG: SMIL,
+	JavaScript and CSS3. A such, it is hoped that it may be useful and interesting to some.</p>
+<p>It is worth noting that the use of SMIL animation in an EPUB such as this is, strictly speaking, disallowed by the
+	EPUB spec. The EPUB Working Group (of which the author is a long-time member) decided in the early days of EPUB
+	(circa 2.x) that SVG animation, though fully supported by both Adobe's SVG Viewer and Sun's Batik viewer, should not
+	be allowed in EPUB documents. Somewhat ironically, none of us in the WG can clearly recall why we decided that SMIL
+	animation should be excluded. In those long ago days, processors in eBook devices were slow, batteries weak and many
+	displays were eInk with its slow refresh rate. These were probably the primary arguments to not allow SMIL animation.
+	Finally, it has to be acknowledged that implementing SMIL animation in SVG was quite difficult, which may have also
+	played a role.</p>
+<h2>About the Author</h2>
+<p>Ric is the Director of Engineering for the <a href="http://readium.org/">Readium</a> project, which is an open-source
+	foundation dedicated to providing web apps and a SDK for rendering <a href="http://idpf.org/epub/301">EPUB</a>, the
+	standard format for eBooks. Prior to running Readium, Ric was with Adobe Systems for many years, where he was a key
+	member of the original SVG Viewer group and was also responsible for most of the libraries for import/export of SVG
+	from Adobe's tools include Illustrator, InDesign and LiveMotion. After Adobe killed the SVG Viewer (because
+	management was in love with Flash - he who laughs last and all that), Ric founded and led the eBook group at Adobe
+	until his departure in 2012. More details of Ric's background can be found on his website at
+	<a href="http://www.geofx.com" title="Geo-F/X website" target="_blank">Geo-F/X</a>.</p>
+<p> The details of how this book was created are covered in the Colophon at the end of the book.</p>
 <p>If you have any feedback, suggestions or bug reports about this book, you are strongly encouraged to contact
 	<a href="mailto:rkwright@readium.org">Ric</a> directly.</p>
 </div>
