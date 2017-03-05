@@ -12,23 +12,27 @@
     var     intervalID;
     var     velocity;
     var     gravity = 9.8;    // m/s**
+    var     svgDoc;
 
     function on_load(evt) {
-        console.log("On load");
-        window.JS_svgdoc = document.getElementById('HighStriker');
-        window.Traveller_next_update = next_update;
+        svgDoc = getSVGDoc(evt.target);
 
-        sledge    = window.JS_svgdoc.getElementById('Sledge');
-        traveller = window.JS_svgdoc.getElementById('Traveller');
-        info      = window.JS_svgdoc.getElementById('Velocity');
+        sledge    = svgDoc.getElementById('Sledge');
+        traveller = svgDoc.getElementById('Traveller');
+        info      = svgDoc.getElementById('Velocity');
         bellSound = window.parent.document.getElementById("audio-bell");
         hitSound  = window.parent.document.getElementById('audio-hit');
     }
 
-    function OnMouseDownSledge(evt)
-    {
-        console.log("OnMouseDownBlock");
-        if (traveling == false) {
+    function  getSVGDoc(node) {
+        if (node.nodeType == 9)
+            return node;
+        else
+            return node.ownerDocument;
+    }
+
+    function OnMouseDownSledge(evt) {
+         if (traveling == false) {
             traveling = true;
             setSledge( -90 );
 
@@ -40,14 +44,13 @@
 
             hitSound.play();
 
-            intervalID = window.setInterval('Traveller_next_update()', 16);
+            intervalID = window.setInterval('next_update()', 16);
         }
     }
 
-    function next_update ()
-    {
+    function next_update () {
         var curTime = new Date();
-        deltaTime = (curTime.getTime() - startTime.getTime()) / 1000.0;
+        deltaTime = (Date.now() - startTime.getTime()) / 1000.0;
 
         velocity = initialVelocity - deltaTime * gravity;
         posY = deltaTime * initialVelocity - 0.5 * gravity * deltaTime * deltaTime;
@@ -74,8 +77,7 @@
         info.firstChild.nodeValue = ( 't: ' + deltaTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1));
     }
 
-    function setSledge( angle )
-    {
+    function setSledge( angle ) {
         sledge.setAttribute("transform", "rotate("+ angle + " " + sledgeAnchorX + " " + sledgeAnchorY + ")");
     }
 
