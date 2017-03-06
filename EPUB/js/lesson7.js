@@ -19,31 +19,33 @@ var		velocity;
 var		gravity = 9.802;    // m/s**
 var		speedY = 0;
 var		speedX = 0;
-var		DEG2RAD   = 0.0174532925199433
+var		DEG2RAD   = 0.0174532925199433;
 var		points      = "";
-
+var     svgDoc;
+var     intervalID;
 
 function on_load(evt)
 {
-    window.JS_svgdoc = document.getElementById('cannon');
-    window.CannonBall_next_update = next_update;
+    svgDoc = getSVGDoc(evt.target);
 
-    CannonBall     = window.JS_svgdoc.getElementById('CannonBall');
-    TrajectoryInfo = window.JS_svgdoc.getElementById('TrajectoryInfo');
-    CannonBallPath = window.JS_svgdoc.getElementById('CannonBallPath');
-    FireButton     = window.JS_svgdoc.getElementById('FireButton');
-    FireButtonFill = window.JS_svgdoc.getElementById('FireButtonFill');
+    CannonBall     = svgDoc.getElementById('CannonBall');
+    TrajectoryInfo = svgDoc.getElementById('TrajectoryInfo');
+    CannonBallPath = svgDoc.getElementById('CannonBallPath');
+    FireButton     = svgDoc.getElementById('FireButton');
+    FireButtonFill = svgDoc.getElementById('FireButtonFill');
     CannonSound    = window.parent.document.getElementById("audio-cannon");
 }
 
-function OnMouseDownFire(evt)
-{
+function  getSVGDoc(node) {
+    if (node.nodeType == 9)
+        return node;
+    else
+        return node.ownerDocument;
+}
+
+function OnMouseDownFire(evt) {
     CannonSound.play();
     startTime = new Date();
-
-    posX = evt.screenX;
-    posY = evt.screenY;
-    CannonBall.setAttribute("display", "inline" );
 
     points="";
     bFlying = true;
@@ -53,28 +55,19 @@ function OnMouseDownFire(evt)
     speedY = velocity * Math.sin(CANNON_ANGLE * DEG2RAD);
     speedX = velocity * Math.cos(CANNON_ANGLE * DEG2RAD);
 
-    // figure out time to max height, half the flight-time
-    flightTime  = speedY / gravity;
-    // then get the max height
-    maxHeight = speedY * flightTime;
-    // the the flight length
-    flightTime *= 2;
-    maxLength = flightTime * speedX;
-
     opacity = 1.0;
 
     CannonBallPath.setAttribute("points", points );
-    CannonBallPath.setAttribute("stroke-opacity", 1.0 );
+    CannonBallPath.setAttribute("stroke-opacity", opacity );
     FireButtonFill.setAttribute("fill", "#000080");
     FireButton.setAttribute("pointer-events", "none" );
     FireButton.setAttribute("opacity", "0.5");
-    intervalID = window.setInterval('CannonBall_next_update()', 16);
+    intervalID = window.setInterval('next_update()', 16);
 }
 
-function next_update ()
-{
-    var curTime = new Date();
-    deltaTime = (curTime.getTime() - startTime.getTime()) / 1000.0;
+function next_update ()  {
+
+    deltaTime = (Date.now() - startTime.getTime()) / 1000.0;
 
     if (posY < MIN_ALTITUDE && bFlying == true)
     {
