@@ -77,10 +77,10 @@
 <p>All the real work happens in the next_update method:</p>
 
 <pre><code class="language-javascript">function next_update () {
-        deltaTime = (Date.now() - startTime.getTime()) / 1000.0;
+        elapsed = (Date.now() - startTime.getTime()) / 1000.0;
 
         velocity = initialVelocity - deltaTime * gravity;
-        posY = deltaTime * initialVelocity - 0.5 * gravity * deltaTime * deltaTime;
+        posY = elapsed * initialVelocity - 0.5 * gravity * elapsed * elapsed;
      
         if (posY &gt;= 9.7) {
             posY = 9.7;
@@ -97,7 +97,7 @@
             setSledge(0);
 
         traveller.setAttribute("y", posY + 0.4778 );
-        info.firstChild.nodeValue = ( 't: ' + deltaTime.toFixed(1) + ' v: ' 
+        info.firstChild.nodeValue = ( 't: ' + elapsed.toFixed(1) + ' v: ' 
                 + velocity.toFixed(1) + ' y: ' + posY.toFixed(1));
     }</code></pre>
 

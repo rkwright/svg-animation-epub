@@ -7,7 +7,7 @@ var		posX      = 0;
 var		posY      = 0;
 var		bFlying   = false;
 var		startTime;
-var		deltaTime;
+var		elapsed;
 var		CannonSound;
 var		CannonBall;
 var		CannonBallPath;
@@ -67,7 +67,7 @@ function OnMouseDownFire(evt) {
 
 function next_update ()  {
 
-    deltaTime = (Date.now() - startTime.getTime()) / 1000.0;
+    elapsed = (Date.now() - startTime.getTime()) / 1000.0;
 
     if (posY < MIN_ALTITUDE && bFlying == true)
     {
@@ -78,8 +78,8 @@ function next_update ()  {
     {
         if (bFlying == true)
         {
-            posX = deltaTime * speedX;
-            posY = deltaTime * speedY - 0.5 * gravity * deltaTime * deltaTime;
+            posX = elapsed * speedX;
+            posY = elapsed * speedY - 0.5 * gravity * elapsed * elapsed;
             velocity = Math.sqrt(speedX*speedX + speedY*speedY);
 
             //console.log(" x: " + posX.toFixed(1) + " y:" + posY.toFixed(1) + " v: " + velocity.toFixed(1));
@@ -91,7 +91,7 @@ function next_update ()  {
             CannonBall.setAttribute("cx", posX );
             CannonBallPath.setAttribute("points", points );
 
-            TrajectoryInfo.firstChild.nodeValue = 't: ' + deltaTime.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1);
+            TrajectoryInfo.firstChild.nodeValue = 't: ' + elapsed.toFixed(1) + ' v: ' + velocity.toFixed(1) + ' y: ' + posY.toFixed(1);
         }
         else {
             opacity -= OPACITY_DECREMENT;
