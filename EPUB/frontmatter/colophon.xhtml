@@ -29,8 +29,8 @@
     chapter or lesson is actually two different spine items. The main part of the chapter is a reflowable spine item.
     The final page of each chapter is the actual functional SVG demo. It is a separate spine item which is a fixed-layout
     page where the itemref in the spine has an override. Thus the second chapter's spine items are</p>
-<pre>&lt;itemref&#32;idref="lesson02"&#32;/&gt;
-&lt;itemref&#32;idref="lesson02-gl"&#32;properties="rendition:layout-pre-paginated"/&gt;</pre>
+<pre>&lt;itemref&#32;idref="hurricane-xhtml"&#32;/&gt;
+&lt;itemref&#32;idref="hurricane-svg"&#32;properties="rendition:layout-pre-paginated"/&gt;</pre>
 <p>It is done this way because the JavaScript code that is the demo has to have a specific size. Normally, in the
     browser the JS code fetches the size of the innerWindow, but that doesn't work from inside an EPUB reading system
     since it normally wraps the actual page content in a iFrame or other construct. So it works much better to specify

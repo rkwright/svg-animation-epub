@@ -66,7 +66,7 @@
         }
     }</code></pre>
 
-<p>We first check that we aren't already i the middle of an animation - if not we set the flag to indicate that we have started animating. Then we rotate the sledgehammer to hit the fulcrum and start the traveler upwards. We record the start time, set the initial velocity to an arbitrary constant that is just sufficient to ring the bell. Then we call the HTML audio element to make the sound of the sledge hitting the fulcrum. Finally, we call the browser's setInterval function, telling it to call the next_update function every 16 milliseconds. The is effectively telling it to call as often as it can. It will continue to call that function until we call the clearInterval function on the browser and pass the intervalID returned by the call to setInterval.</p>
+<p>We first check that we aren't already in the middle of an animation - if not we set the flag to indicate that we have started animating. Then we rotate the sledgehammer to hit the fulcrum and start the traveler upwards. We record the start time, set the initial velocity to an arbitrary constant that is just sufficient to ring the bell. Then we call the HTML audio element to make the sound of the sledge hitting the fulcrum. Finally, we call the browser's setInterval function, telling it to call the next_update function every 16 milliseconds. The is effectively telling it to call as often as it can. It will continue to call that function until we call the clearInterval function on the browser and pass the intervalID returned by the call to setInterval.</p>
 <p>The setSledge function is quite simple:</p>
 
 <pre><code class="language-javascript">function setSledge( angle ) {
@@ -105,7 +105,7 @@
 <p>If, on the other hand, the traveler has reached the bottom, we ensure it doesn't drop further, set the animation flag to false and call the HTML audio element to make the thump sound again. The we call the browser with the intervalID to stop the calls to next_update.</p>
 <p>Note that we also check to see if one second has passed since the animation started and, if so, we put the sledge back where it started.</p>
 <p>Finally, we set the traveler's position and update the info text.</p>
-<p>And that's it! Click on <a href="lesson6-svg.xhtml" title="Lesson 6 Animation" target="_self">this link</a> to go to the next page and see the animation in all it's traveling glory!</p>
+<p>And that's it! Go to the next page and see the animation in all it's traveling glory!</p>
 </div>
 </body>
 </html>
