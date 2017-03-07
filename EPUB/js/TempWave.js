@@ -126,8 +126,8 @@
 
 			for ( n=0; n<nDepth; n++ )
 			{
-				Temps[n] = Array(200);  // 24 times a day for a week
-				Times[n] = Array(200);
+				Temps[n] = new Array(200);  // 24 times a day for a week
+				Times[n] = new Array(200);
 			}
 		}
 

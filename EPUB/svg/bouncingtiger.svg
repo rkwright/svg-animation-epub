@@ -1,10 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="1024">
 
-    <!-- animate xlink:href="#tiger" attributeName="x" values="0;924;0" dur="9s" repeatCount="indefinite"/ -->
-    <!-- animate xlink:href="#tiger" attributeName="y" values="0;668;0" dur="5s" repeatCount="indefinite"/ -->
-
-	<style>
+	<style type="text/css">
 		#kingtutX {
 		animation: kingtutX 10s linear infinite;
 		transform: translateZ(0);
@@ -778,7 +775,7 @@
 <g  id="kingtutX">
 	<g id="kingtutY">
 		<g transform="translate(-10.156 -6.3636) scale(0.15625, 0.127)">
-	 <_rect x="65" y="100" width="480" height="770" fill="none" stroke="red" stroke-width="15" />
+	 <!-- rect x="65" y="100" width="480" height="770" fill="none" stroke="red" stroke-width="15" / -->
 	<g id="Layer_1">
 		<path fill="none" stroke="#FFF0A1" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M405.6,296.3
 			c3.75-9.25,9.625-10,14.875-11c4.966-0.946,12.125,6.75,11.375,18.75s-5.25,24.75-8.25,31.5"/>

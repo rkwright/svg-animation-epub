@@ -837,7 +837,7 @@
 	
 			<use id="useStatePop" xlink:href="#CaliforniaPop" stroke="blue" fill="none" />
 			<use id="useStateProp" xlink:href="#CaliforniaProp" stroke="red" fill="none"/>
-			<use transform="matrix(2 0 0 -0.01 1790 1.05)" id="useStateName" xlink:href="#CaliforniaName" fill="red" />
+			<use id="useStateName" xlink:href="#CaliforniaName" transform="matrix(2 0 0 -0.01 1790 1.05)"  fill="red" />
 
 			<g fill="black" >
 				<text transform="matrix(1 0 0 -0.01 1790 1)" text-anchor="end" baseline-shift="-30%" >1 </text>

@@ -1,19 +1,42 @@
+<!DOCTYPE html>
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en">
-    <head>        
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <link rel="stylesheet" type="text/css" href="../css/styles.css" />
-		<meta name="viewport" content="width=768, height=1024"/>
+<head>        
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+    <link type="text/css" href="../css/prism.css" rel="stylesheet"/>
         <script src="../js/prism.js"></script>
-		<title>Tempwave SVG</title>
-    </head>
-    <body>
+    <title>Tempwave SVG</title>
+</head>
+<body>
     	<div>
-        <h2>Tempave Demonstration in SVG</h2>
-		<p>
-
+        <h2>Tempwave Demonstration in SVG</h2>
+        <p>The sinusoidal temperature wave demo is quite similar in terms of animation to Lessons 6 and 7 in that it is some relatively simple static SVG and some somewhat more complex JavaScript to handle the interactivity and animation.        </p>
+        <p> The demo a simple animation of the transmission of temperature from the air into the ground.  Heat is conducted from the air into the ground and diffuses downward. As the heat diffuses downwards, the amplitude of the wave decreases until at some depth there is no perceptible variation over the time period being examined. The physics of this are quite complex but can be evaluated by this approximation:</p>
+        
+        <blockquote>
+          <p>t<sub>d</sub> = T<sub>a</sub> + A<sub>t</sub> *  e<sup>-d / D</sup>  *  cos( t * &#969; - d / D)</p>
+        </blockquote>
+ 
+        <p>where</p>
+        <blockquote>
+          <p>t<sub>d</sub> = the temperature at depth d<br/>
+            T<sub>a</sub> = air temperature at the surface (i.e. d = 0)<br/>
+            A<sub>t</sub> = daily temperature amplitude, in degrees<br/>
+            D = the &quot;damping depth&quot; of the material being heated<br/>
+            t = time<br/>
+            &#969; = time period cycle expressed in radians</p>
+        </blockquote>
+        
+        <p>This can be implemented in JavaScript as
         </p>
-       	</div>
+		
 
-    </body>
+        <pre><code class="language-javascript">dampingDepth    = Depth[depthNum] / damping;
+dampedAmplitude = diurnalAmplitude * Math.exp(-Depth[depthNum] / damping);
+Temps[depthNum][nCurTemp] = airTemperature + dampedAmplitude * Math.cos(curTime * omegaDayRad - dampingDepth);
+</code></pre>
+        
+</div>
+</body>
 </html>
