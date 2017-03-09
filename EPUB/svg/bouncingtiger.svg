@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="1024">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 960">
 
 	<style type="text/css">
 		#kingtutX {
@@ -14,13 +14,13 @@
 
 		@keyframes kingtutX {
 		0% {
-		transform: translateX(693px);
+		transform: translateX(645px);
 		}
 		50% {
 		transform: translateX(0px);
 		}
 		100% {
-		transform: translateX(693px);
+		transform: translateX(645px);
 		}
 		}
 
@@ -29,7 +29,7 @@
 		transform: translateY(0px);
 		}
 		50% {
-		transform: translateY(930px);
+		transform: translateY(862px);
 		}
 		100% {
 		transform: translateY(0px);
@@ -38,7 +38,7 @@
 	</style>
 
 	<g transform="scale(1.0)">
-    <rect x="0" y="0" width="768" height="1024"  style="fill:none;stroke:red;stroke-width:10"></rect>
+    <rect x="0" y="0" width="720" height="960"  style="fill:none;stroke:red;stroke-width:10"></rect>
     </g>
 
 	<!-- g id="tiger" width="100" height="100"  _viewBox="-190 -150 510 510" -->
@@ -768,14 +768,13 @@
 		</g>
 	</svg>
 
-	<animate xlink:href="#tiger" attributeName="x" values="0;668;0" dur="9s" repeatCount="indefinite"/>
-	<animate xlink:href="#tiger" attributeName="y" values="0;924;0" dur="5s" repeatCount="indefinite"/>
+	<animate xlink:href="#tiger" attributeName="x" values="0;620;0" dur="9s" repeatCount="indefinite"/>
+	<animate xlink:href="#tiger" attributeName="y" values="0;860;0" dur="5s" repeatCount="indefinite"/>
 
 
 <g  id="kingtutX">
 	<g id="kingtutY">
 		<g transform="translate(-10.156 -6.3636) scale(0.15625, 0.127)">
-	 <!-- rect x="65" y="100" width="480" height="770" fill="none" stroke="red" stroke-width="15" / -->
 	<g id="Layer_1">
 		<path fill="none" stroke="#FFF0A1" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M405.6,296.3
 			c3.75-9.25,9.625-10,14.875-11c4.966-0.946,12.125,6.75,11.375,18.75s-5.25,24.75-8.25,31.5"/>

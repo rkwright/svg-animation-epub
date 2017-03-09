@@ -49,6 +49,7 @@ function OnMouseDownFire(evt) {
 
     points="";
     bFlying = true;
+    posY = 0;
     CannonBall.setAttribute("display", "inline" );
 
     velocity = INITIAL_VELOCITY;

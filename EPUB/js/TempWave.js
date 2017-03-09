@@ -41,9 +41,7 @@
 		function    on_load(evt)
 		{
 			var dummy = 42;
-			
-			document.addEventListener("touchstart", touchHandler, true);
-			 
+
 			// This makes the next_update function available to JavaScript functions
 			// defined outside of the SVG document. This is needed so that the
 			// setInterval function can find and call next_update when needed.
@@ -54,10 +52,14 @@
 			InitSimulation();
 		}
 
-		function touchHandler()
+		/*
+        document.addEventListener("touchstart", touchHandler, true);
+
+        function touchHandler()
 		{
 			alert('touchHandler');
 		}
+		*/
 		
 		function OnStopButton(evt)
 		{

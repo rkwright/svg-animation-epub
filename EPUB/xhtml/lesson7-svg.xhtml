@@ -7,13 +7,14 @@
 		<title>Lesson 7 SVG</title>
     </head>
     <body>
-    <div style="position:absolute;top:0;left:0">
+
+    <div style="float:left; width:200px; height:400px;z-index: 999; position:relative">
         <object type="image/svg+xml" data="../svg/lesson7.svg">
-                <p>Unable to load the lesson7.svg file</p>
+            <p>Unable to load the lesson7.svg file</p>
         </object>
     </div>
 
-    <div style="margin-left:8em;">
+    <div style="width:100%;z-index:0; position:relative">
         <h2> A Lesson in Ballistics</h2>
         <p>In the previous lesson, we saw how one can calculate the vertical position of an object as a function of its
             initial velocity and the accelerationofgravity. In this lesson, we will extend that concept to 
@@ -63,7 +64,7 @@
             </li>
         </ol>
      </div>
+
     <audio id="audio-cannon" src="../audio/cannon.mp3" ></audio>
-    <!-- div id="left"/><div id="right"/><div id="top"/><div id="bottom"/ -->
     </body>
 </html>

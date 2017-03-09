@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<svg   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="768" height="1024" viewBox="0 0 800 600"
-		preserveAspectRatio="xMinYMin" xml:space="preserve" onload="on_load(evt)" style="overflow:visible" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100%"
+     viewBox="0 0 600 800" preserveAspectRatio="xMinYMin" onload="on_load(evt)" style="overflow:visible" >
 
 	<script type="text/javascript" xlink:href="../js/TempWave.js" />
 
-    <defs>
-		<rect id="Beefd00" width="600" height="800"/>
-	</defs>
-	<use xlink:href="#Beefd00"  id="Ueefd00" />
-
 	<g transform="rotate(-90) translate(-800 0)">
+
+        <defs>
+            <rect id="Beefd00" width="800" height="600"/>
+        </defs>
+        <use xlink:href="#Beefd00"  id="Ueefd00" />
 
 	<!-- animate id="Deefd00" xlink:href="#Ceefd00" attributeName="x"  dur="0s" from="0" to="0"/ -->
 
