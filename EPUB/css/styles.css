@@ -8,8 +8,24 @@ body {
   	padding: 0;
 	font-family: "Times New Roman", Times, serif;
 	font-size:110%;
-    /*background-color: #FFEEFF; */
+    background-color: #fcfcfc;
 
+}
+
+.title {
+	text-align:center;
+	font-size:72px;
+}
+
+.byline {
+	text-align:center;
+	font-size:32px;
+}
+
+.version {
+	text-align:center;
+	font-size:18px;
+	font-style:italic;
 }
 
 h2 {

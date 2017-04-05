@@ -60,7 +60,7 @@
 			alert('touchHandler');
 		}
 		*/
-		
+
 		function OnStopButton(evt)
 		{
 			window.clearInterval( intervalID );
